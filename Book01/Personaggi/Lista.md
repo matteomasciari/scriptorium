@@ -9,7 +9,7 @@
 
 - Fratello minore:
 
-    Nome completo: Caleb Varek
+    Nome completo: Caleb Vega
     Nota: Caleb è giovane, dinamico e carico di potenziale, in contrasto con la complessità di Elias.
 
 - Padre dei due fratelli:

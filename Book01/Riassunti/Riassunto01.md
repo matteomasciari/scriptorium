@@ -37,52 +37,52 @@ Simulando la sua morte, la corporazione ha messo a tacere i dubbi del mondo e, n
 # Punti per capitoli
 
 Capitolo 1: 
-	- Presentazione di Miles Jefferson
+	- Presentazione di Elias Varek
 	- Presentazione della città
 	- Riunione e conclusione misteriosa
 Capitolo 2:
-  - Presentazione di Michael Barner
+  - Presentazione di Caleb Vega
   - Risveglio con _ragazza_
   - Laurea
-  - Telefonata morte Miles
+  - Telefonata morte Elias
 Capitolo 3:
   - Introduzione del commissario
-  - Michael in commissariato & riconoscimento corpo (strange)
+  - Caleb in commissariato & riconoscimento corpo (strange)
   - Presentazione di Rehumanis
   - Telefonata con _ragazza_
 Capitolo 4:
   - Chiamata dalla Nexora
-  - Incontro di Michael con _Responsabile_ e offerta di lavoro (Il fratello prima di morire lo aveva iscritto ad uno stage conoscendo la sua passione per l'ambito)
-  - Presa dei beni di Miles
+  - Incontro di Caleb con _Responsabile_ e offerta di lavoro (Il fratello prima di morire lo aveva iscritto ad uno stage conoscendo la sua passione per l'ambito)
+  - Presa dei beni di Elias
 Capitolo 5:
   - Commissario ottiene responso autopsia
   - Introduzione assistente
   - Inizio indagini e convocazione interrogatori amici/parenti colleghi
 Capitolo 6:
-  - Michael scena di lavoro (patente per figli)
-  - Michael sospende Heartveil (introduzione)
+  - Caleb scena di lavoro (patente per figli)
+  - Caleb sospende Heartveil (introduzione)
   - Porta come richiesto la _ragazza_ in caserma
   - Uscita con _ragazza_
 Capitolo 7:
   - Commissario e aiutante sulle tracce dei cattivi
   - Fine misteriosa commissario
 Capitolo 8:
-  - Introduzione di Moglie Miles e bimbo
+  - Introduzione di Moglie Elias e bimbo
   - Oggetto con scritta strana
 Capitolo 9:
-  - Assistente incontra Michael
+  - Assistente incontra Caleb
   - Contrabbandiere distretto X
 Capitolo 10:
-  - Michael sente a lavoro Amrita
+  - Caleb sente a lavoro Amrita
   - Scopre di sede segreta ma non sa dov'è
 Capitolo 11:
-  - Michael riflette e alla fine contatta assistente
+  - Caleb riflette e alla fine contatta assistente
   - Trovano con aiuto contrabbandieri sede segreta
 Capitolo 12:
   - Possibili scene per spezzare
 Capitolo 13:
   - Introduzione nella sede nascosta
-  - Ritrovamento Miles
+  - Ritrovamento Elias
   - Introduzione cattivi
 
 *Missing: Capitolo introduzione contrabbandieri con dettagli del mondo. 
