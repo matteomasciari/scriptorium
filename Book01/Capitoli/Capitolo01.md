@@ -12,11 +12,11 @@ Aveva lasciato il lavoro prima del solito, un evento raro per lui. Quel giorno n
 
 Quando giunse davanti all’edificio della Nexora, si fermò un istante a osservarlo. La sua struttura imponente si stagliava contro il cielo nero, circondata da luci fredde che ne accentuavano l’architettura moderna. Era un simbolo di stabilità e potere, un colosso che sembrava fatto per resistere al tempo e alle tempeste. Entrando, fu accolto dal silenzio. Durante il giorno, l’atrio era un crocevia brulicante di persone, ma a quell’ora della sera regnava un’atmosfera quasi surreale.
 
-Un ascensore lo portò rapidamente al piano della riunione. La sala, illuminata da un’unica fila di luci sospese, era già occupata da un piccolo gruppo di persone. Il capo del comitato, un uomo alto e dal portamento rigido, lo accolse con un sorriso enigmatico. «Buonasera, signor Jefferson. La stavamo aspettando.»
+Un ascensore lo portò rapidamente al piano della riunione. La sala, illuminata da un’unica fila di luci sospese, era già occupata da un piccolo gruppo di persone. Il capo del comitato, un uomo alto e dal portamento rigido, lo accolse con un sorriso enigmatico. «Buonasera, signor Varek. La stavamo aspettando.»
 
 Elias prese posto e iniziò la sua presentazione. Con voce sicura e misurata, spiegò i dettagli della sua scoperta. Ogni parola era calcolata, ogni frase un tassello di un puzzle che avrebbe avuto un impatto immenso sul mondo. Ma mentre parlava, non poteva fare a meno di notare l’assenza di emozione nei volti dei suoi ascoltatori. Nessun segno di sorpresa, nessuna domanda. Alla fine, fu il capo del gruppo a prendere la parola.
 
-«Signor Jefferson,» disse, incrociando le mani sul tavolo, «la sua scoperta è straordinaria, ma… non ci coglie di sorpresa. Eravamo consapevoli del suo progresso da tempo.»
+«Signor Varek,» disse, incrociando le mani sul tavolo, «la sua scoperta è straordinaria, ma… non ci coglie di sorpresa. Eravamo consapevoli del suo progresso da tempo.»
 
 Elias aggrottò le sopracciglia. «Come facevate a saperlo? Ho lavorato in segreto…»
 
