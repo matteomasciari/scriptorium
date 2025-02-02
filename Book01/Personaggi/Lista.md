@@ -21,18 +21,18 @@
 
 - Madre di Elias (prima moglie di Gideon):
 
-    Nome completo: Liora Kane
+    Nome completo: Liora Kye
     Nota: Liora è un nome elegante e misterioso, con un passato che potrebbe aver avuto impatto su Elias.
 
 - Madre di Caleb (seconda moglie di Gideon):
 
-    Nome completo: Maris Vega
-    Nota: Maris ha un tocco moderno e sofisticato, magari con un carattere più calmo rispetto a Liora.
+    Nome completo: Natalie Vega
+    Nota: Natalie ha un tocco moderno e sofisticato, magari con un carattere più calmo rispetto a Liora.
 
 - Fidanzata di Caleb:
 
-    Nome completo: Serena Kye
-    Nota: Serena ha un'aria romantica ma anche resiliente, perfetta per una relazione con un giovane brillante come Caleb.
+    Nome completo: Daniela Kane
+    Nota: Daniela ha un'aria romantica ma anche resiliente, perfetta per una relazione con un giovane brillante come Caleb.
 
 - Ex moglie di Elias:
 
