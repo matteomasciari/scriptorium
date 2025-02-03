@@ -1,4 +1,6 @@
-# Capitolo 1
+# Sezione 1 - Introduzione
+
+## Capitolo 1
 
 Era appena tramontato il sole, e una pioggia fine aveva cominciato a cadere sulla città di Aurion, come se il cielo stesso volesse spegnere il calore bloccato tra le strade di asfalto. Il rosso riverbero del tramonto aveva ceduto il passo alla luce fredda dei lampioni, che s’infiltrava tra la foschia come lame pallide. L’aria era densa di umidità, e un debole vento trascinava con sé l’odore del metallo e della terra bagnata. Aurion era un prodigio della modernità, una città-stato nata sulle macerie del passato dopo la Quarta Rivoluzione Industriale, quando le intelligenze artificiali erano state integrate in ogni aspetto della società, cambiando per sempre il volto del mondo.
 
@@ -84,7 +86,7 @@ Elias si voltò di scatto. Per un istante, i due si fissarono. L’uomo aveva un
 
 Con un gesto rapido, poggiò il pollice sulla portiera, che si aprì con un clic elettronico. Si infilò nell’abitacolo e andò per chiudere la portiera, ma una forza improvvisa glielo impedì. L’uomo aveva afferrato la portiera con una mano, mentre l’altra si avvicinava lentamente, minacciosa. Elias capì allora, con un’ondata di terrore, che non si era trattato solo dei suoi pensieri. Quell’uomo lo aveva seguito. E ora lo aveva raggiunto.
 
-# Capitolo 2
+## Capitolo 2
 
 "È già mattina", pensò Caleb, sentendo il fresco contatto delle lenzuola contro la pelle mentre la sveglia continuava a suonare, riportandolo alla realtà. Mentre spegneva l’allarme, un sorriso sfuggì alle sue labbra. “Sarebbe stato un incubo, senza il mio caro Handovex” pensò, cercando di immaginare se stesso trascinarsi fuori dal letto con il peso di una sbornia.
 
@@ -114,14 +116,17 @@ Ritornato al presente, guardò l'orologio, sempre presente nella sua schermata N
 
 In quel momento, un'onda di felicità lo travolse. Quella ragazza gli aveva dato il buon umore, e secondo lui, avrebbe potuto piacergli molto in futuro. Non certo in quel momento, stava ancora affrontando la terapia con Heartveil. A quel punto, con un sorriso compiaciuto, mormorò mentre chiudeva la porta alle spalle, "Aria, ho vinto la scommessa. Ho ricordato il suo nome."
 
+## Capitolo 3
 
-Capitolo 3 ?
+Mentre il taxi a guida autonoma avanzava silenziosamente attraverso le strade di Aurion, Caleb apparentemente fissava il vuoto, ma in realtà proiettava davanti a se attraverso NeuroVision il libretto digitale degli esami universitari. Ogni pagina scivolava via con un leggero movimento del dito, e dietro ogni esame che leggeva c'era una storia da raccontare, un ricordo di notti insonni e di giornate trascorse a studiare. Ma anche di sere passate con gli amici studenti a discutere di come migliorare il mondo. A volte un sorriso gli sfiorava le labbra, altre volte un sospiro di sollievo per quelle sfide ormai superate.
 
-Mentre il taxi a guida autonoma avanzava silenziosamente attraverso le strade di Aurion, Caleb apparentemente fissava il vuoto, ma in realtà proiettava davanti su NeuroVision il libretto digitale degli esami universitari. Ogni pagina scivolava via con un leggero movimento del dito, e dietro ogni esame che leggeva c'era una storia da raccontare, un ricordo di notti insonni e di giornate trascorse a studiare. E di sere passate con gli amici studenti a parlare di come migliorare il mondo. A volte un sorriso gli sfiorava le labbra, altre volte un sospiro di sollievo per quelle sfide ormai superate.
+Leggere il suo nome, Caleb Vega, che risaltava in cima alla lista degli esami sostenuti, a memoria delle sue conquiste accademiche, lo riportò al giorno prima, trascorso con il fratello Elias. Riflettendo sulla loro unione, nonostante i diversi cognomi, il legame tra loro era indissolubile e Caleb si sentiva fortunato per questo. Lui portava il cognome di sua madre, Natalie, una donna di coraggio e determinazione che aveva lasciato la sua città-stato, Metronia dove era nata e cresciuta, per cercare una avvenire migliore in Aurion.
 
-Il suo nome, Caleb Vega, risaltava in cima alla lista degli esami sostenuti, a memoria delle sue conquiste accademiche. Il pensiero lo riportò al giorno prima, trascorso con il fratello Elias. Riflettendo sulla loro unione, nonostante i diversi cognomi, il legame tra loro era indissolubile e Caleb si sentiva fortunato per questo. Lui portava il cognome di sua madre, Natalie, una donna di coraggio e determinazione che aveva lasciato la sua città-stato, Metronia dove era nata e cresciuta, per cercare una avvenire migliore in Aurion.
+Giurista di professione, Natalie, lavorava per il Councilium di Metronia, l'organo governativo che pulsava al centro dell'autonomia legislativa e amministrativa delle città-stato. Come in tutte le entità urbane autonome, anche a Metronia il Councilium era totalmente finanziato dalle compagnie che popolavano il tessuto economico della città, Zephyria, la corporazione dominante, e un gruppo di altre imprese minori.
 
-Giurista di professione, lavorava per il Councilium, l'alto concilio cittadino che, come in ogni città-stato, anche a Metronia veniva finanziato dall'azienda domaninante, in questa città Zephyria, e da altre aziende minori. In base all'entità dei finanziamenti si possodeva un numero di posti nel consiglio di ammistrazione del Concilium, e di conseguenza se controllava una certa quantità. Il compito di Natilie era quello di trasformare e integrare le leggi emesse dal consiglio dell'ordine globale, Harmony in smart contract che regolavano la vita di tutti i cittadini.
+Questi finanziamenti non erano meri atti di patronato. In cambio, le corporazioni si assicuravano la presenza dei propri rappresentanti all'interno del consiglio di amministrazione del Councilium. Questa pratica gli garantiva un controllo diretto e decisivo sulle politiche adottate, orientando le decisioni del concilio in maniera che rispecchiasse gli interessi aziendali più che il bene comune.
+
+Il ruolo di Natalie all'interno di questo intricato meccanismo era di adattare e integrare le direttive emesse da Harmony, il consiglio supremo dell'ordine globale, trasformandole in leggi applicabili all'interno dei confini di Metronia. Queste leggi venivano codificate sotto forma di smart contract: contratti intelligenti che, grazie alla tecnologia blockchain, garantivano l'attuazione automatica e inappellabile delle normative, regolando profondamente la vita quotidiana di tutti i cittadini.
 
 Tuttavia, nonostante l'importanza del suo lavoro, l'economia di Metronia che gravitava pesantemente attorno a Zephyria e alle altre poche aziende minori, non era particolarmente florida e questo si rifletteva in un tenore di vita che lasciava poco spazio alle ambizioni personali, soprattutto quando si viaggiava all'estero, in un'altra città. La preoccupazione che un giorno quando sarebbe stata madre, non avrebbe potuto offrire ai suoi figli l'opportunità di poter studiare in una nelle migliori università che si trovavano tutte fuori Metronia, la spinsero a muoversi altrove. Ben presto trovo un altro lavoro ad Aurion. Qui l'economia era tutta un altra storia.
 
