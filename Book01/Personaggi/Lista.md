@@ -48,7 +48,7 @@
 
 - Commissario che indaga sulla morte di Elias:
 
-    Nome completo: Cassandra Rho
+    Nome completo: Cassandra Voss
     Nota: Cassandra è un nome potente, con un retrogusto mitologico, che si sposa bene con un personaggio determinato e intelligente.
 
 - Primo aiutante del commissario:
