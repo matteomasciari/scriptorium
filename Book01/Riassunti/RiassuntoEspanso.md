@@ -149,3 +149,11 @@ Caleb rise, scrollando la testa. "Forse hai ragione, Aria. Ma non è la malincon
 Il taxi si fermò davanti all'università, un edificio imponente che sembrava accoglierlo a braccia aperte. Caleb prese un respiro profondo e si preparò a scendere. "Bene, arrivati a destinazione. Pronto a conquistare il mondo, Caleb Vega?"
 
 "Con te al mio fianco, Aria? Sempre, putroppo però ora ti dovrò spegnere" disse Caleb, mentre apriva la porta del taxi, pronto a fronteggiare il futuro con la determinazione che gli era stata trasmessa sia da sua madre che dal fratello. Ogni passo che faceva, ogni decisione che prendeva, era un tributo a loro, a quell'amore incondizionato e a quell'intelligenza condivisa che formavano il tessuto della sua vita.
+
+# Altro capitolo
+
+Era una mattina soleggiata, e dal momento che le previsioni per la sera erano di pioggia Cassandra Voss decise di andare a fare una corsa. Non che la pioggia la potesse fermare. Al contrario della maggior parte degli abitanti di Aurion che trovano piacevole correre nel parco cittadino, Cassandra si trovava più a suo agio al bordo esterno, lungo la cinta di Giada a sud della città.
+
+Questo era il confine più selvaggio della città. Infatti a sud si estendeva una enorme foresta, lasciata cresce volutamente per dare respiro al pianeta e abbassare la quantità di CO2 nell'atmosfera, lì come in molte altre parti del mondo. Questo però non era stato sufficiente a fermare l'innalzamento delle temperature e l'inabissamento di molte città che un tempo sorgevano lunghe le coste del mondo antico.
+
+_Qualcosa contro il surriscaldamento della terra e dei frullati proteici di insetti. Iniziato dialogo con chattino sulla DAC_
