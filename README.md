@@ -22,4 +22,4 @@ La prima parte, o primo atto, dovrebbe costituire il 25% della narrazione e sono
 Il secondo atto, quello centrale, costituisce il 50% del narrato: qui entriamo nel vivo dell’accadimento, dei fatti che cambieranno la vita dei protagonisti, il punto di non ritorno.
 
 ### Terza parte
-Solo nella tera parte (il rimanente 25%) la faccenda inizierà ad avviarsi verso la conclusione, molte domande troveranno risposta e molti misteri saranno risolti.
+Solo nella terza parte (il rimanente 25%) la faccenda inizierà ad avviarsi verso la conclusione, molte domande troveranno risposta e molti misteri saranno risolti.
