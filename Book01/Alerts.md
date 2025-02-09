@@ -1,4 +1,4 @@
-Aree di attenzione e possibili revisioni
+# Aree di attenzione e possibili revisioni
 Gestione dei filoni narrativi
 
 Con tanti elementi (mistero dell’incidente, sospetto sul clone, rivoluzione degli Aetherials, progetti segreti, intrighi aziendali), il rischio è di disperdere l’attenzione del lettore.
@@ -22,3 +22,9 @@ Suggerimento: Inserisci piccoli indizi iniziali (un dettaglio nel referto, un co
 Potenziale di successo
 Target di lettori: Questo romanzo potrebbe attirare appassionati di fantascienza, amanti del thriller tecnologico e lettori interessati ai dilemmi etici legati a scienza e potere.
 Approccio narrativo: Se scritto con un buon ritmo, una caratterizzazione incisiva dei personaggi e un worldbuilding coerente, può riuscire a emergere in un mercato già pieno di titoli sci-fi/distopici. La chiave è la voce autoriale: quanto riesci a rendere questa storia personale, emozionante, e diversa da altre simili.
+
+# Punti da vedere
+
+- Cassandra ha due aiutanti, uno che ha forte stiamo di lei quindi la segue anche quando lei capisce che dietro la scomparsa di Elias potrebbe esserci la corporazione, l'altro, nel momento di questa scoperta la tradisce e parla con i sentinel
+- Quando Caleb inizia a lavorare, si dovrà parlare del generatore randomico di idee poi validate da un altra AI -> Gli umani sono ancora più bravi nell'analisi dei bisogni.
+- Importante parlare del cambiamento climatico con conseguente innalzamento del mare
