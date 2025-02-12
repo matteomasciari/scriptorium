@@ -148,12 +148,47 @@ Caleb rise, scrollando la testa. "Forse hai ragione, Aria. Ma non è la malincon
 
 Il taxi si fermò davanti all'università, un edificio imponente che sembrava accoglierlo a braccia aperte. Caleb prese un respiro profondo e si preparò a scendere. "Bene, arrivati a destinazione. Pronto a conquistare il mondo, Caleb Vega?"
 
-"Con te al mio fianco, Aria? Sempre, putroppo però ora ti dovrò spegnere" disse Caleb, mentre apriva la porta del taxi, pronto a fronteggiare il futuro con la determinazione che gli era stata trasmessa sia da sua madre che dal fratello. Ogni passo che faceva, ogni decisione che prendeva, era un tributo a loro, a quell'amore incondizionato e a quell'intelligenza condivisa che formavano il tessuto della sua vita.
+"Con te al mio fianco, Aria? Sempre, purtroppo però ora ti dovrò spegnere" disse Caleb, mentre apriva la porta del taxi, pronto a fronteggiare il futuro con la determinazione che gli era stata trasmessa sia da sua madre che dal fratello. Ogni passo che faceva, ogni decisione che prendeva, era un tributo a loro, a quell'amore incondizionato e a quell'intelligenza condivisa che formavano il tessuto della sua vita.
 
-# Altro capitolo
+# Capitolo 4
 
 Era una mattina soleggiata, e dal momento che le previsioni per la sera erano di pioggia Cassandra Voss decise di andare a fare una corsa. Non che la pioggia la potesse fermare. Al contrario della maggior parte degli abitanti di Aurion che trovano piacevole correre nel parco cittadino, Cassandra si trovava più a suo agio al bordo esterno, lungo la cinta di Giada a sud della città.
 
 Questo era il confine più selvaggio della città. Infatti a sud si estendeva una enorme foresta, lasciata cresce volutamente per dare respiro al pianeta e abbassare la quantità di CO2 nell'atmosfera, lì come in molte altre parti del mondo. Questo però non era stato sufficiente a fermare l'innalzamento delle temperature e l'inabissamento di molte città che un tempo sorgevano lunghe le coste del mondo antico.
 
 _Qualcosa contro il surriscaldamento della terra e dei frullati proteici di insetti. Iniziato dialogo con chattino sulla DAC_
+
+L’aria della mattina era densa, quasi vischiosa, mentre Cassandra avanzava lungo il perimetro esterno di Aurion. Il sole, un disco pallido dietro il velo opaco dell’atmosfera, si alzava con fatica oltre le guglie metalliche della città. L’aria sapeva di ferro e ozono, un misto di progresso e decadenza, un marchio indelebile del tempo in cui vivevano.
+
+Correva con il respiro cadenzato, i passi rimbombanti sul selciato sintetico. Il mondo attorno a lei era diverso da quello che le vecchie registrazioni storiche narravano: il cielo non era più un azzurro puro, ma un grigio lavato con sprazzi aranciati di polveri sottili. Il caldo si insinuava sotto la pelle come un veleno lento, anche a quell’ora del mattino, quando un tempo l’aria avrebbe dovuto essere fresca. Ma non c’era più freschezza nel futuro. Non più.
+
+Il cambiamento climatico aveva trasformato la Terra in un mosaico instabile di estremi: Aurion, come molte altre città, era sopravvissuta adattandosi. Cupole regolatrici di temperatura proteggevano il centro cittadino, ma ai confini—lì dove la civiltà incontrava il suo limite—l’aria era ancora feroce, e chi osava sfidarla sapeva che ne sarebbe uscito più forte o più stanco. Cassandra accettò quel peso sulle spalle come un rito necessario: correre significava ricordare, sentire sulla pelle il mondo che cambiava, un monito silenzioso che la società voleva dimenticare.
+
+Quando raggiunse il suo appartamento, il sudore le colava lungo la schiena in rivoli tiepidi. Si lavò rapidamente, infilò il suo abito da lavoro e si immerse nella routine che la attendeva. La giornata era appena cominciata, e già sentiva il peso delle sue responsabilità.
+
+L’ufficio di sorveglianza e analisi dei casi critici era immerso in un costante brusio: dati che scorrevano sugli schermi, investigatori chini su report, sussurri spezzati da occasionali ordini secchi. Cassandra si muoveva con una sicurezza innata tra le postazioni, ogni dettaglio assorbito dal suo sguardo attento. Aveva un istinto raro, quello di vedere connessioni laddove gli altri scorgevano solo il caos. Quella mattina, risolvette l’ennesimo caso con la stessa precisione chirurgica di sempre.
+
+Un’anomalia nei registri di accesso di un complesso industriale? Una distrazione di un’impiegata che aveva permesso una violazione di protocollo? Un doppio gioco nascosto dietro una messinscena maldestra? Cassandra srotolò il filo della verità con una rapidità che lasciò il suo superiore con un sopracciglio sollevato.
+
+Ma non fece in tempo a godersi la soddisfazione del lavoro ben fatto. Il capo si avvicinò alla sua scrivania, il volto segnato da un’ombra di gravità insolita.
+
+“Abbiamo un nuovo caso per te.”
+
+Cassandra si voltò, incrociando il suo sguardo.
+
+“Di che si tratta?”
+
+Il capo eseguì un rapido gesto sul proprio dispositivo, e una serie di immagini apparvero sul suo schermo. Un corpo disteso, una strada poco illuminata, segni di un impatto che suggeriva un incidente. Ma il file era marcato con un livello di priorità che raramente si vedeva.
+
+“Elias Thorn. Lo conoscevi?”
+
+Cassandra trattenne un respiro. Il nome era noto, persino troppo.
+
+“Un incidente?”
+
+“Così sembrerebbe.” Il capo abbassò la voce. “Ma qualcosa non torna. Ci sono troppe discrepanze nei dati, troppi dettagli che non quadrano. Il caso è tuo.”
+
+Cassandra annuì lentamente, fissando le immagini. C’era qualcosa, un’incrinatura nella superficie della realtà, un’eco di menzogne da smascherare.
+
+Un nuovo filo da seguire, e stavolta, la verità sembrava celata dietro un velo più fitto del solito.
+
