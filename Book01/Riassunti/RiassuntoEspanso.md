@@ -152,33 +152,63 @@ Il taxi si fermò davanti all'università, un edificio imponente che sembrava ac
 
 # Capitolo 4
 
-Era una mattina soleggiata, e dal momento che le previsioni per la sera erano di pioggia Cassandra Voss decise di andare a fare una corsa. Non che la pioggia la potesse fermare. Al contrario della maggior parte degli abitanti di Aurion che trovano piacevole correre nel parco cittadino, Cassandra si trovava più a suo agio al bordo esterno, lungo la cinta di Giada a sud della città.
+Era una mattina soleggiata, e Cassandra Voss decise di andare a fare una corsa, consapevole che lo avrebbe fatto anche se avesse piovuto. Non aveva bisogno di scuse, né di incentivi. La sua disciplina era incrollabile, così come la sua determinazione. Al contrario della maggior parte degli abitanti di Aurion, che trovavano piacevole correre nel parco cittadino, Cassandra si sentiva più a suo agio al bordo esterno, lungo l'orlo a sud della città.
 
-Questo era il confine più selvaggio della città. Infatti a sud si estendeva una enorme foresta, lasciata cresce volutamente per dare respiro al pianeta e abbassare la quantità di CO2 nell'atmosfera, lì come in molte altre parti del mondo. Questo però non era stato sufficiente a fermare l'innalzamento delle temperature e l'inabissamento di molte città che un tempo sorgevano lunghe le coste del mondo antico.
+La sua intelligenza artificiale personale si attivò con la solita precisione analitica. "Temperatura corporea stabile. Frequenza cardiaca ottimale. Vuoi un riepilogo delle prestazioni di questa settimana?"
 
-_Qualcosa contro il surriscaldamento della terra e dei frullati proteici di insetti. Iniziato dialogo con chattino sulla DAC_
+Cassandra scosse la testa, concentrandosi sul ritmo della sua corsa. "Non ora, Echo. Lasciami godere un po’ di silenzio."
 
-L’aria della mattina era densa, quasi vischiosa, mentre Cassandra avanzava lungo il perimetro esterno di Aurion. Il sole, un disco pallido dietro il velo opaco dell’atmosfera, si alzava con fatica oltre le guglie metalliche della città. L’aria sapeva di ferro e ozono, un misto di progresso e decadenza, un marchio indelebile del tempo in cui vivevano.
+"Il silenzio è un’illusione," replicò la voce artificiale con la sua intonazione neutra. "Vuoi che riproduca suoni della foresta primordiale per rilassarti?"
 
-Correva con il respiro cadenzato, i passi rimbombanti sul selciato sintetico. Il mondo attorno a lei era diverso da quello che le vecchie registrazioni storiche narravano: il cielo non era più un azzurro puro, ma un grigio lavato con sprazzi aranciati di polveri sottili. Il caldo si insinuava sotto la pelle come un veleno lento, anche a quell’ora del mattino, quando un tempo l’aria avrebbe dovuto essere fresca. Ma non c’era più freschezza nel futuro. Non più.
+Cassandra sospirò. "Echo, fammi solo sapere se qualcosa fuori dall’ordinario si muove nel perimetro. Preferisco il mondo reale alle simulazioni."
 
-Il cambiamento climatico aveva trasformato la Terra in un mosaico instabile di estremi: Aurion, come molte altre città, era sopravvissuta adattandosi. Cupole regolatrici di temperatura proteggevano il centro cittadino, ma ai confini—lì dove la civiltà incontrava il suo limite—l’aria era ancora feroce, e chi osava sfidarla sapeva che ne sarebbe uscito più forte o più stanco. Cassandra accettò quel peso sulle spalle come un rito necessario: correre significava ricordare, sentire sulla pelle il mondo che cambiava, un monito silenzioso che la società voleva dimenticare.
+"Come desideri. Analizzando ambiente... Nessuna anomalia rilevata. Continua pure a essere una leggenda."
 
-Quando raggiunse il suo appartamento, il sudore le colava lungo la schiena in rivoli tiepidi. Si lavò rapidamente, infilò il suo abito da lavoro e si immerse nella routine che la attendeva. La giornata era appena cominciata, e già sentiva il peso delle sue responsabilità.
+Questo era il confine più selvaggio della città. A sud si estendeva un'enorme foresta, ripopolata negli ultimi cinquant'anni dall'uomo per dare respiro al pianeta e abbassare gli alti livelli di anidride carbonica che un tempo soffocavano l’atmosfera. Ma non era stata solo la riforestazione a salvare il pianeta. L’umanità aveva sviluppato e implementato su scala globale i DAC, i Direct Air Capture, enormi impianti capaci di filtrare e assorbire CO₂ dall’aria, mentre sofisticati sistemi di filtri antiparticelle ripulivano l’atmosfera dai residui più sottili, riducendo drasticamente l'inquinamento atmosferico. Nei mari, sciami di robot autonomi setacciavano gli oceani, raccogliendo e decomponendo la plastica rimasta dalle epoche passate, riportando le acque a una trasparenza dimenticata da secoli.
 
-L’ufficio di sorveglianza e analisi dei casi critici era immerso in un costante brusio: dati che scorrevano sugli schermi, investigatori chini su report, sussurri spezzati da occasionali ordini secchi. Cassandra si muoveva con una sicurezza innata tra le postazioni, ogni dettaglio assorbito dal suo sguardo attento. Aveva un istinto raro, quello di vedere connessioni laddove gli altri scorgevano solo il caos. Quella mattina, risolvette l’ennesimo caso con la stessa precisione chirurgica di sempre.
+Cassandra non correva solo per tenersi in forma, ma per rafforzare il proprio spirito. Ogni falcata era una dichiarazione di indipendenza, ogni respiro affondato nell’aria pura una conferma della sua forza. Non aveva bisogno di nessuno per sentirsi completa: il suo corpo e la sua mente erano le sue uniche armi, affilate da anni di autodisciplina e dedizione.
 
-Un’anomalia nei registri di accesso di un complesso industriale? Una distrazione di un’impiegata che aveva permesso una violazione di protocollo? Un doppio gioco nascosto dietro una messinscena maldestra? Cassandra srotolò il filo della verità con una rapidità che lasciò il suo superiore con un sopracciglio sollevato.
+Quando raggiunse il suo appartamento, il sudore le brillava sulla pelle senza lasciarle la sensazione di oppressione di un tempo. La voce di Echo risuonò di nuovo non appena varcò la soglia.
 
-Ma non fece in tempo a godersi la soddisfazione del lavoro ben fatto. Il capo si avvicinò alla sua scrivania, il volto segnato da un’ombra di gravità insolita.
+"Calorie bruciate: 482. Assunzione consigliata: un frullato proteico. Preferisci base di insetti o alghe?"
+
+Cassandra si lasciò cadere su una sedia, lanciando un’occhiata scettica al dispositivo di erogazione alimentare. "Non mi abituerò mai a sentire la parola 'insetti' prima di colazione."
+
+"Il 97% della popolazione lo consuma abitualmente," ribatté Echo con la solita calma. "Ricorda, fonte proteica sostenibile e altamente digeribile."
+
+Cassandra sbuffò. "Eppure nessuna IA ha ancora trovato un modo per farlo sembrare meno disgustoso."
+
+"Potrei migliorare la presentazione con una descrizione più accattivante. Vuoi che lo chiami 'nettare proteico di nuova generazione'?"
+
+"Ci penserò. Intanto, fammi un caffè vero."
+
+"Caffè sintetico selezionato. Il tuo solito amaro e forte, come te."
+
+Si lavò rapidamente, infilò il suo abito da lavoro e si immerse nella routine che la attendeva. La giornata era appena cominciata, e già sentiva il peso delle sue responsabilità.
+
+L’ufficio di sorveglianza e analisi dei casi critici si affacciava su un grande parco urbano, un’oasi verde nel cuore della città. Il suono dell’acqua che scorreva tra le fontane e il cinguettio degli uccelli creavano un ambiente sereno, un contrasto con l’intensa attività che si svolgeva all’interno. Cassandra si muoveva con una sicurezza innata tra le postazioni, ogni dettaglio assorbito dal suo sguardo attento.
+
+Mentre si sedeva alla sua scrivania, Echo si attivò di nuovo. "Sto incrociando i dati con le anomalie delle ultime settimane. Vuoi una sintesi o il rapporto dettagliato?"
+
+Cassandra si massaggiò le tempie, abituata all’efficienza dell’IA. "Dettagliato. Voglio ogni possibile incongruenza."
+
+"Come sempre, prediligi la verità spogliata di ogni artificio. Ecco i primi risultati."
+
+Un sorriso leggero le sfiorò le labbra. "Echo, mi stai facendo complimenti?"
+
+"Solo osservazioni statistiche basate sul tuo comportamento abituale. Ma sì, potremmo chiamarlo un complimento calibrato."
+
+Cassandra annuì, tornando a fissare lo schermo. "Bene. Ora dimmi cosa non torna con Elias Thorn."
+
+Il capo si avvicinò alla sua scrivania, il volto segnato da un’ombra di gravità insolita.
 
 “Abbiamo un nuovo caso per te.”
 
-Cassandra si voltò, incrociando il suo sguardo.
+Cassandra si voltò, incrociando il suo sguardo. Non c’era esitazione nei suoi occhi, solo la fredda lucidità di chi ha affrontato situazioni peggiori e ne è uscita vincitrice.
 
 “Di che si tratta?”
 
-Il capo eseguì un rapido gesto sul proprio dispositivo, e una serie di immagini apparvero sul suo schermo. Un corpo disteso, una strada poco illuminata, segni di un impatto che suggeriva un incidente. Ma il file era marcato con un livello di priorità che raramente si vedeva.
+Il capo eseguì un rapido gesto sul proprio dispositivo, e una serie di immagini apparvero sul suo schermo. Un corpo disteso in un viale alberato, un’area solitamente sicura e controllata, segni di un impatto che suggeriva un incidente. Ma il file era marcato con un livello di priorità che raramente si vedeva.
 
 “Elias Thorn. Lo conoscevi?”
 
@@ -192,3 +222,50 @@ Cassandra annuì lentamente, fissando le immagini. C’era qualcosa, un’incrin
 
 Un nuovo filo da seguire, e stavolta, la verità sembrava celata dietro un velo più fitto del solito.
 
+## Next
+
+La sala cerimoniale dell’università era gremita di studenti, professori e famiglie. L’aria vibrava di emozione e orgoglio, mentre i laureandi attendevano il proprio turno. Caleb si sedette in prima fila, le mani leggermente sudate. Accanto a lui, sua madre, Natalie Vega, sorrideva con occhi lucidi. 
+
+"Sei pronto?" sussurrò, stringendogli brevemente la mano.
+
+Caleb annuì, abbozzando un sorriso. "Non vedo l’ora di finire tutto questo." 
+
+Natalie rise piano. "Neanche il tempo di laurearti e vuoi già fuggire. Mi ricordi tanto me da giovane."
+
+Improvvisamente Caleb si ricordò si suo fratello e si guardò rapidamente intorno. Un velo di malinconia lo attraversò. "Già... lui non è ancora arrivato."
+
+"Lo conosci, Caleb. Il suo lavoro lo tiene sempre occupato, ma sono sicura che farà di tutto per esserci." 
+
+Il suo nome fu chiamato. Caleb si alzò e attraversò la passerella tra gli applausi. Raggiunto il palco, scansionò la folla con lo sguardo, ma suo fratello ancora non c’era. Racconto il suo progetto e quando fini, ritirò la pergamena e scese.
+
+Si recò dalla madre e si sedette. "Contgratulazioni tesoro mio. Adesso hai tutte le armi per contruire il tuo lavoro che sarà il nucleo pulsante della tua vita e del tuo futuro."
+
+"Grazie mamma. Ho molte idee e molti progetti che voglio portare avanti." disse Caleb.
+
+A cerimonia finita Caleb saluto la madre, pieno di felicità ed entusiamo per i nuovi orizzonti che si prospettavano. Ma quella sensazione di leggerezza svanì quando decise di riaccendere la sua intelligenza artificiale. Provò a contattare suo fratello. Nessuna risposta. Scrollò le spalle, cercando di scacciare il pensiero. Forse era in riunione, forse il suo dispositivo era spento. 
+
+La festa si spostò al Pulse, il locale degli studenti. L’atmosfera cambiò completamente: luci soffuse, musica pulsante e il tintinnio di bicchieri levati per brindare. Il Pulse era il cuore delle celebrazioni universitarie, con le sue pareti ricoperte di ologrammi mutevoli e una pista centrale affollata di ragazzi esultanti. Caleb si accomodò in un angolo del locale con gli amici e Daniela, la ragazza che aveva salutato quella mattina a casa.
+
+"Congratulazioni, dottore!" esclamò uno degli amici sollevando il bicchiere. "E adesso? Inizierai a fare colloqui e cercare lavoro fin da subito ad Aution o hai intenzione di cambiare città?"
+
+Daniela gli sorrise, posando una mano sulla sua. "Lasciatelo respirare. Caleb, divertiti almeno stasera, te lo sei meritato."
+
+Caleb rise, lasciandosi andare. "Si hai ragione. Stasera niente pensieri, solo festeggiamenti." Prese un altro sorso di drink e si immerse nei festeggiamenti.
+
+Non passò molto tempo prima di sentire la voce di Aria "Caleb, hai una chiamata dal numero di un agente della UrbanSec". Caleb ormai brillo, divenne momentaneamente lucido "La UrbanSec? Cosa vorranno da me?". Rispose e su NeuroVision comparve il volto di una donna che si presentò "Ciao Caleb, sono Cassandra Voss, spero sia un buon momento."
+
+Il brusio del locale sembrò improvvisamente distante. "Che cosa succede?"
+
+Un breve silenzio, poi Cassandra riprese con un tono più morbido ma deciso. "Si tratta di tuo fratello, Caleb. È stato trovato morto."
+
+Il bicchiere gli scivolò dalle mani, frantumandosi sul pavimento del locale. Il rumore fu soffocato dalla musica, ma per lui sembrò un’esplosione. Il suo cuore prese a martellare nel petto. La realtà attorno a lui si fece ovattata, distante.
+
+"No..." mormorò, incapace di elaborare. "Cosa... cosa vuoi dire? Non può essere."
+
+"Lo so. Capisco che sia un colpo terribile. Dalle prime informazioni che abbiamo sembra che sia stato vittima di un incidente con la sua auto, ma devi venire al commissariato domattina. Ti spiegherò tutto di persona."
+
+Caleb sentì il respiro farsi irregolare. "Domattina... sì, certo. Arriverò il prima possibile."
+
+"Va bene. Cerca di riposare questa notte. Il tuo medico saprà sicuramente consigliarti qualcosa che ti aiuti a dormire." La voce di Cassandra era meno rigida ora, più umana.
+
+Ma Caleb non rispose. Senza dire una parola, si alzò e si fece largo tra la folla, ignorando gli sguardi confusi dei suoi amici e di Daniela. Uscì di corsa dal locale, il respiro irregolare. Non sapeva dove stesse andando. Voleva solo allontanarsi. La notte di festeggiamenti si era trasformata in un incubo.
