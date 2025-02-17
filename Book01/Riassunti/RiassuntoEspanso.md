@@ -116,7 +116,7 @@ Il signor Bellamy, che non capiva a pieno cosa stesse succedendo dal momento che
 
 Ritornato al presente, guardò l'orologio, sempre presente nella sua schermata NeuroVision e si diresse verso l'ingresso di casa per uscire. Prima di farlo però, il suo sguardo cadde sullo specchio li vicino che gli aveva regalato la madre insieme ad altri oggetti quando si iscrisse all'università. C'era una scritta rossa, solo avvicinandosi si accorse che era stata fatta col rossetto: "Non aspettare troppo per richiamarmi", firmato Daniela.
 
-In quel momento, un'onda di felicità lo travolse. Quella ragazza gli aveva dato il buon umore, e secondo lui, avrebbe potuto piacergli molto in futuro. Non certo in quel momento, stava ancora affrontando la terapia con Heartveil. A quel punto, con un sorriso compiaciuto, mormorò mentre chiudeva la porta alle spalle, "Aria, ho vinto la scommessa. Ho ricordato il suo nome."
+In quel momento, un'onda di felicità lo travolse. Quella ragazza gli aveva dato il buon umore, e secondo lui, avrebbe potuto piacergli molto in futuro. Non certo in quel momento, stava ancora affrontando la terapia con Heartveil. "Aria per favore, manda un messaggio a Daniela per chiedere di venire stasera ai festeggiamenti." e, con un sorriso compiaciuto,  mentre chiudeva la porta alle spalle, "e Aria, ho vinto la scommessa. Ora conosco il suo nome."
 
 ## Capitolo 3
 
