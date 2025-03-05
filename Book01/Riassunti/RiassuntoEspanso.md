@@ -230,9 +230,11 @@ La sala cerimoniale dell’università era gremita di studenti, professori e fam
 
 Caleb annuì, abbozzando un sorriso. "Non vedo l’ora di finire tutto questo." 
 
-Natalie rise piano. "Neanche il tempo di laurearti e vuoi già fuggire. Mi ricordi tanto me da giovane."
+Natalie rise piano. "Neanche il tempo di laurearti e vuoi già fuggire. Mi ricordi tanto me da giovane. Ero molto emotiva ed ad ogni esame avevo ansia, ma non volevo rimediare in nessun modo, volevo comunque vivere l'esperienza piena. Tuo padre invece, lui era forte restava impassibile e razionale anche nei momenti più difficili."
 
-Improvvisamente Caleb si ricordò si suo fratello e si guardò rapidamente intorno. Un velo di malinconia lo attraversò. "Già... lui non è ancora arrivato."
+"Già, papà era un punto di riferimento. Credo lo sia stato ancora di più per Elias."
+
+Improvvisamente Caleb si ricordò si suo fratello e si guardò rapidamente intorno. Un velo di malinconia lo attraversò. "Già, Elias non è ancora arrivato."
 
 "Lo conosci, Caleb. Il suo lavoro lo tiene sempre occupato, ma sono sicura che farà di tutto per esserci." 
 
