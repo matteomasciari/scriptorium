@@ -10,7 +10,7 @@
 
 ## **Contesto Familiare**
 - **Padre:** Gideon Varek (deceduto)  
-- **Madre (prima moglie di Gideon):** Liora Kye (deceduta o fuori scena, a discrezione del racconto)  
+- **Madre (prima moglie di Gideon):** Liora Kye
 - **Fratellastro:** Caleb Vega, 25 anni, nato dalla relazione extraconiugale di Gideon. Nonostante l’origine controversa, Elias ha sempre dimostrato un profondo affetto nei suoi confronti.  
 - **Compagna (non moglie):** Evelyn March, donna discreta e leale, madre del figlio di Elias.  
 - **Figlio:** Aiden Varek, bambino autistico, amatissimo da Elias.

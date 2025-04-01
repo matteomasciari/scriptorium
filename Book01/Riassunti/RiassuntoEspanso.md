@@ -271,3 +271,64 @@ Caleb sentì il respiro farsi irregolare. "Domattina... sì, certo. Arriverò il
 "Va bene. Cerca di riposare questa notte. Il tuo medico saprà sicuramente consigliarti qualcosa che ti aiuti a dormire." La voce di Cassandra era meno rigida ora, più umana.
 
 Ma Caleb non rispose. Senza dire una parola, si alzò e si fece largo tra la folla, ignorando gli sguardi confusi dei suoi amici e di Daniela. Uscì di corsa dal locale, il respiro irregolare. Non sapeva dove stesse andando. Voleva solo allontanarsi. La notte di festeggiamenti si era trasformata in un incubo.
+
+## Next
+
+### Capitolo XII - Verità sotto la superficie
+
+La pioggia leggera batteva contro le ampie vetrate del commissariato centrale di Aurion, diffondendo una luce lattiginosa negli ambienti sobri e silenziosi. Cassandra Voss era seduta alla sua scrivania, le mani intrecciate, lo sguardo perso nel flusso di dati che scorrevano sugli ologrammi sospesi davanti a lei. Il volto era impassibile, ma gli occhi rivelavano un’intensità difficile da ignorare.
+
+Davanti a sé, proiettata in alta risoluzione, l’immagine del corpo di Elias Voss. Ufficialmente, un incidente. Ufficiosamente, un enigma.
+
+«Non ha senso…» mormorò tra sé. «Gli Aetherials non colpiscono all’interno del perimetro urbano. Mai. Non è nel loro schema.»
+
+La sua intelligenza artificiale interna le rispose con il solito tono neutro. «Statistica degli attacchi Aetherials negli ultimi dieci anni: 98,3% in aree di transito o zone di confine. Nessuna anomalia urbana registrata.»
+
+«Eppure Elias era lì. In una zona sicura. Nessun motivo apparente per essere attaccato. Nessun avvertimento. Nessun segnale.» Cassandra abbassò lo sguardo. «O forse il segnale c’era. Ma non lo abbiamo visto.»
+
+Il tempo passava. Fu solo mezz’ora dopo l’orario concordato che la porta del suo ufficio si aprì.
+
+«Scusa il ritardo,» disse Caleb con voce incerta, il volto segnato da occhiaie che parlavano di una notte insonne. Aveva dimenticato persino di prendere la sua dose quotidiana di Heartveil, il regolatore emotivo che ormai quasi tutti assumevano per affrontare la pressione della vita moderna.
+
+Cassandra si alzò e gli fece un cenno con la mano. «Va tutto bene. Siediti, per favore.»
+
+Caleb si accomodò, rigido, gli occhi che vagavano ovunque tranne che sul volto della donna davanti a lui.
+
+Lei attivò un pannello olografico e disattivò l’accesso esterno. «Quello che sto per dirti non è ancora di dominio pubblico.»
+
+Lui annuì lentamente, il respiro trattenuto.
+
+«Dietro la morte di tuo fratello… ci sono tracce riconducibili agli Aetherials.»
+
+Caleb sgranò gli occhi. «Gli Aetherials? Ma loro… attaccano convogli. Zone periferiche. Non dentro Aurion.»
+
+«Appunto. È questo che rende tutto più inquietante. Non ci sono precedenti. Eppure abbiamo prove: frammenti energetici incompatibili con la nostra tecnologia, la firma residua delle loro armi. Il cadavere è stato riconosciuto ufficialmente dalla sua intelligenza artificiale personale. Non ci sono dubbi.»
+
+Il silenzio calò nella stanza come una nebbia improvvisa. Cassandra lo spezzò con voce pacata ma ferma.
+
+«Ho già parlato con Natalie, sua madre. Era… distrutta, naturalmente. Ma ha detto che si occuperà dei funerali. Con la dignità che la contraddistingue.»
+
+Caleb si coprì il volto con le mani per un attimo. «Grazie. Non so se riesco a pensarci adesso. È tutto così veloce.»
+
+«Lo capisco. E voglio anche informarti che nei prossimi giorni parlerò con Lira, la sua ex moglie. È importante che sia coinvolta, soprattutto per le sue competenze.»
+
+Caleb sollevò lo sguardo. «Giusto. Anche lei lavora in ambito neuroetico. Forse potrà… aiutarci a capire meglio.»
+
+Cassandra annuì. Poi, in tono più riflessivo: «Tuo fratello ha fatto molto per questa società, Caleb. Più di quanto la maggior parte delle persone saprà mai.»
+
+«Lo so.» La voce di Caleb era rotta. «Non cercava riconoscimenti. Solo risultati.»
+
+«Rehumanis è una delle sue eredità più importanti. Senza il suo contributo, oggi non potremmo parlare di reintegrazione. Quel farmaco ha ridato coscienza, empatia e umanità a migliaia di individui che un tempo erano considerati irrecuperabili. Criminali pericolosi che ora insegnano, lavorano, vivono. Elias credeva nel cambiamento.»
+
+Caleb deglutì a vuoto. «Lo so. Lo diceva sempre: 'Se togliamo la possibilità di tornare indietro, nessuno camminerà mai avanti.'»
+
+Un altro silenzio calò, ma questa volta più carico di rispetto che di angoscia. Cassandra lasciò che passassero alcuni secondi, poi chiuse l’interfaccia olografica.
+
+«Ti chiamerò appena avremo nuovi dati. Per ora, riposa. E…» lo guardò con un accenno di sorriso. «Prendi Heartveil. Hai il volto di uno che ha attraversato una tempesta senza ombrello.»
+
+Caleb accennò un sorriso debole, poi si alzò. «Grazie, Cassandra.»
+
+Lei annuì. «Ci rivediamo presto.»
+
+Uscì in silenzio, lasciando dietro di sé un ufficio che sapeva ancora di verità non dette e minacce invisibili.
+
