@@ -118,7 +118,6 @@ Ritornato al presente, guardò l'orologio, sempre presente nella sua schermata N
 
 In quel momento, un'onda di felicità lo travolse. Quella ragazza gli aveva dato il buon umore, e secondo lui, avrebbe potuto piacergli molto in futuro. Non certo in quel momento, stava ancora affrontando la terapia con Heartveil. "Aria per favore, manda un messaggio a Daniela per chiedere di venire stasera ai festeggiamenti." e, con un sorriso compiaciuto,  mentre chiudeva la porta alle spalle, "e Aria, ho vinto la scommessa. Ora conosco il suo nome."
 
-## Capitolo 3
 
 Mentre il taxi a guida autonoma avanzava silenziosamente attraverso le strade di Aurion, Caleb apparentemente fissava il vuoto, ma in realtà proiettava davanti a se attraverso NeuroVision il libretto digitale degli esami universitari. Ogni pagina scivolava via con un leggero movimento del dito, e dietro ogni esame che leggeva c'era una storia da raccontare, un ricordo di notti insonni e di giornate trascorse a studiare. Ma anche di sere passate con  i colleghi a discutere di come migliorare il mondo. A volte un sorriso gli sfiorava le labbra, altre volte un sospiro di sollievo per quelle sfide ormai superate.
 
@@ -150,7 +149,7 @@ Il taxi si fermò davanti all'università, un edificio imponente che sembrava ac
 
 "Con te al mio fianco, Aria? Sempre, purtroppo però ora ti dovrò spegnere" disse Caleb, mentre apriva la porta del taxi, pronto a fronteggiare il futuro con la determinazione che gli era stata trasmessa sia da sua madre che dal fratello. Ogni passo che faceva, ogni decisione che prendeva, era un tributo a loro, a quell'amore incondizionato e a quell'intelligenza condivisa che formavano il tessuto della sua vita.
 
-# Capitolo 4
+# Capitolo 3
 
 Era una mattina soleggiata, e Cassandra Voss decise di andare a fare una corsa, consapevole che lo avrebbe fatto anche se avesse piovuto. Non aveva bisogno di scuse, né di incentivi. La sua disciplina era incrollabile, così come la sua determinazione. Al contrario della maggior parte degli abitanti di Aurion, che trovavano piacevole correre nel parco cittadino, Cassandra si sentiva più a suo agio al bordo esterno, lungo l'orlo a sud della città.
 
@@ -202,11 +201,11 @@ Cassandra annuì, tornando a fissare lo schermo. "Bene. Ora dimmi cosa non torna
 
 Il capo si avvicinò alla sua scrivania, il volto segnato da un’ombra di gravità insolita.
 
-“Abbiamo un nuovo caso per te.”
+“Abbiamo un nuovo caso per te. La vittima è un pezzo grosso, hanno chiesto il mio agente migliore.”
 
 Cassandra si voltò, incrociando il suo sguardo. Non c’era esitazione nei suoi occhi, solo la fredda lucidità di chi ha affrontato situazioni peggiori e ne è uscita vincitrice.
 
-“Di che si tratta?”
+“Di chi si tratta?”
 
 Il capo eseguì un rapido gesto sul proprio dispositivo, e una serie di immagini apparvero sul suo schermo. Un corpo disteso in un viale alberato, un’area solitamente sicura e controllata, segni di un impatto che suggeriva un incidente. Ma il file era marcato con un livello di priorità che raramente si vedeva.
 
@@ -216,13 +215,13 @@ Cassandra trattenne un respiro. Il nome era noto, persino troppo.
 
 “Un incidente?”
 
-“Così sembrerebbe.” Il capo abbassò la voce. “Ma qualcosa non torna. Ci sono troppe discrepanze nei dati, troppi dettagli che non quadrano. Il caso è tuo.”
+“Così sembrerebbe.” Il capo abbassò la voce. “Ma qualcosa non torna. Ci sono troppe discrepanze nei dati, troppi dettagli che non quadrano. Devi far eun po' di luce.”
 
 Cassandra annuì lentamente, fissando le immagini. C’era qualcosa, un’incrinatura nella superficie della realtà, un’eco di menzogne da smascherare.
 
 Un nuovo filo da seguire, e stavolta, la verità sembrava celata dietro un velo più fitto del solito.
 
-## Next
+## Capitolo 4
 
 La sala cerimoniale dell’università era gremita di studenti, professori e famiglie. L’aria vibrava di emozione e orgoglio, mentre i laureandi attendevano il proprio turno. Caleb si sedette in prima fila, le mani leggermente sudate. Accanto a lui, sua madre, Natalie Vega, sorrideva con occhi lucidi. 
 
@@ -272,9 +271,7 @@ Caleb sentì il respiro farsi irregolare. "Domattina... sì, certo. Arriverò il
 
 Ma Caleb non rispose. Senza dire una parola, si alzò e si fece largo tra la folla, ignorando gli sguardi confusi dei suoi amici e di Daniela. Uscì di corsa dal locale, il respiro irregolare. Non sapeva dove stesse andando. Voleva solo allontanarsi. La notte di festeggiamenti si era trasformata in un incubo.
 
-## Next
-
-### Capitolo XII - Verità sotto la superficie
+## Capitolo 5
 
 La pioggia leggera batteva contro le ampie vetrate del commissariato centrale di Aurion, diffondendo una luce lattiginosa negli ambienti sobri e silenziosi. Cassandra Voss era seduta alla sua scrivania, le mani intrecciate, lo sguardo perso nel flusso di dati che scorrevano sugli ologrammi sospesi davanti a lei. Il volto era impassibile, ma gli occhi rivelavano un’intensità difficile da ignorare.
 
@@ -288,47 +285,143 @@ La sua intelligenza artificiale interna le rispose con il solito tono neutro. «
 
 Il tempo passava. Fu solo mezz’ora dopo l’orario concordato che la porta del suo ufficio si aprì.
 
-«Scusa il ritardo,» disse Caleb con voce incerta, il volto segnato da occhiaie che parlavano di una notte insonne. Aveva dimenticato persino di prendere la sua dose quotidiana di Heartveil, il regolatore emotivo che ormai quasi tutti assumevano per affrontare la pressione della vita moderna.
+«Scusa il ritardo,» disse una voce esitante.
 
-Cassandra si alzò e gli fece un cenno con la mano. «Va tutto bene. Siediti, per favore.»
+Cassandra si alzò e fece un cenno al ragazzo che entrava. Il volto era quello di un giovane uomo segnato da occhiaie profonde e tensione trattenuta a fatica. «Caleb Voss?»
 
-Caleb si accomodò, rigido, gli occhi che vagavano ovunque tranne che sul volto della donna davanti a lui.
+«Sì… sono io. Cassandra, giusto?»
 
-Lei attivò un pannello olografico e disattivò l’accesso esterno. «Quello che sto per dirti non è ancora di dominio pubblico.»
+«Esatto. Grazie per essere venuto. So che non dev’essere facile.» Gli indicò una poltrona davanti alla scrivania. «Prego, siediti.»
 
-Lui annuì lentamente, il respiro trattenuto.
+Caleb si accomodò, rigido, gli occhi che vagavano ovunque tranne che su di lei.
 
-«Dietro la morte di tuo fratello… ci sono tracce riconducibili agli Aetherials.»
+Lei attivò un pannello olografico e disattivò l’accesso esterno. «Quello che sto per dirti non è ancora di dominio pubblico. Prima però... posso farti qualche domanda?»
 
-Caleb sgranò gli occhi. «Gli Aetherials? Ma loro… attaccano convogli. Zone periferiche. Non dentro Aurion.»
+«Sì, certo.»
 
-«Appunto. È questo che rende tutto più inquietante. Non ci sono precedenti. Eppure abbiamo prove: frammenti energetici incompatibili con la nostra tecnologia, la firma residua delle loro armi. Il cadavere è stato riconosciuto ufficialmente dalla sua intelligenza artificiale personale. Non ci sono dubbi.»
+«Da quanto tempo non vedevi tuo fratello?»
 
-Il silenzio calò nella stanza come una nebbia improvvisa. Cassandra lo spezzò con voce pacata ma ferma.
+Caleb rifletté un istante. «Qualche settimana. Abbiamo vite molto diverse. Ma ci sentivamo spesso, anche solo per messaggi.»
 
-«Ho già parlato con Natalie, sua madre. Era… distrutta, naturalmente. Ma ha detto che si occuperà dei funerali. Con la dignità che la contraddistingue.»
+Cassandra annuì. «So che tu ed Elias avete madri diverse. La tua è Natalie Vega, corretto?»
 
-Caleb si coprì il volto con le mani per un attimo. «Grazie. Non so se riesco a pensarci adesso. È tutto così veloce.»
+«Sì.»
 
-«Lo capisco. E voglio anche informarti che nei prossimi giorni parlerò con Lira, la sua ex moglie. È importante che sia coinvolta, soprattutto per le sue competenze.»
+«Hai parlato con lei dopo aver ricevuto la notizia?»
 
-Caleb sollevò lo sguardo. «Giusto. Anche lei lavora in ambito neuroetico. Forse potrà… aiutarci a capire meglio.»
+Caleb annuì lentamente. «Non molto… È stato tutto troppo veloce. Ma... non abbiamo rapporti con Liora Kye, la madre di Elias. Non ci parliamo da anni.»
 
-Cassandra annuì. Poi, in tono più riflessivo: «Tuo fratello ha fatto molto per questa società, Caleb. Più di quanto la maggior parte delle persone saprà mai.»
+«Capisco.» Cassandra abbassò lo sguardo un momento, poi lo rialzò con decisione. «Dietro la morte di tuo fratello ci sono tracce riconducibili agli Aetherials.»
 
-«Lo so.» La voce di Caleb era rotta. «Non cercava riconoscimenti. Solo risultati.»
+Caleb spalancò gli occhi. «Cosa? Ma... loro attaccano convogli. Zone di transito. Non dentro Aurion.»
 
-«Rehumanis è una delle sue eredità più importanti. Senza il suo contributo, oggi non potremmo parlare di reintegrazione. Quel farmaco ha ridato coscienza, empatia e umanità a migliaia di individui che un tempo erano considerati irrecuperabili. Criminali pericolosi che ora insegnano, lavorano, vivono. Elias credeva nel cambiamento.»
+«Appunto. È questo che rende tutto più inquietante. Non ci sono precedenti. Ma abbiamo prove. Frammenti energetici incompatibili con la nostra tecnologia, la firma residua delle loro armi. Il cadavere è stato riconosciuto ufficialmente dalla sua intelligenza artificiale. Non ci sono dubbi.»
 
-Caleb deglutì a vuoto. «Lo so. Lo diceva sempre: 'Se togliamo la possibilità di tornare indietro, nessuno camminerà mai avanti.'»
+Il silenzio calò nella stanza come una nebbia improvvisa.
 
-Un altro silenzio calò, ma questa volta più carico di rispetto che di angoscia. Cassandra lasciò che passassero alcuni secondi, poi chiuse l’interfaccia olografica.
+«Abbiamo già informato Liora Kye. È devastata, ma si occuperà dei funerali.»
 
-«Ti chiamerò appena avremo nuovi dati. Per ora, riposa. E…» lo guardò con un accenno di sorriso. «Prendi Heartveil. Hai il volto di uno che ha attraversato una tempesta senza ombrello.»
+Caleb abbassò lo sguardo. «Bene. È giusto così.»
 
-Caleb accennò un sorriso debole, poi si alzò. «Grazie, Cassandra.»
+Cassandra proseguì con tono più delicato. «Parlerò presto anche con Lira, l'ex moglie di Elias. Ho bisogno di capire se può aiutarci con qualche informazione. So che lavora in ambito neuroetico.»
 
-Lei annuì. «Ci rivediamo presto.»
+«Sì. Lei ed Elias erano rimasti in buoni rapporti. Forse saprà qualcosa.»
 
-Uscì in silenzio, lasciando dietro di sé un ufficio che sapeva ancora di verità non dette e minacce invisibili.
+Cassandra annuì. Poi, abbassò la voce. «Tuo fratello ha fatto molto per questa società. Più di quanto la gente sappia. Rehumanis è una delle sue eredità più significative.»
 
+«Lo so.» La voce di Caleb si incrinò. «Non voleva fama. Solo risultati.»
+
+«E ne ha ottenuti. Senza Rehumanis non potremmo parlare di riabilitazione oggi. Quel farmaco ha restituito coscienza ed empatia a migliaia di persone che erano considerate perdute. Persone che oggi vivono, lavorano, insegnano. Elias credeva che ogni mente, anche la più corrotta, potesse tornare alla luce.»
+
+Caleb chiuse gli occhi, trattenendo il respiro. «Diceva sempre: 'Se togliamo la possibilità di tornare indietro, nessuno camminerà mai avanti.'»
+
+Cassandra lasciò che il silenzio parlasse per un momento. Poi chiuse l’interfaccia olografica e tornò a guardarlo. «So che è molto da digerire. Ti chiamerò appena avremo aggiornamenti. Per ora, cerca di riposare. E…» lo osservò con uno sguardo lieve ma attento, «non dimenticare Heartveil. Hai il volto di chi si sta trattenendo dal crollare.»
+
+Caleb accennò un sorriso debole. «Già. Me ne sono scordato stamattina.»
+
+Lei si alzò, e insieme si avviarono verso l’uscita del commissariato.
+
+La pioggia era cessata, lasciando l’aria lucida di odore di pietra e foglie. I vialetti esterni del distretto erano immersi nel silenzio di metà mattina. Si fermarono un attimo davanti all’ingresso.
+
+«Caleb,» disse Cassandra, «se ti viene in mente qualsiasi cosa, anche un dettaglio che possa sembrare insignificante, chiamami. Non esitare.»
+
+«Lo farò,» rispose lui. «E... ti chiedo solo una cosa. Tienimi aggiornato. Vorrei sapere cosa è successo davvero a mio fratello.»
+
+Cassandra annuì con fermezza. «Te lo prometto.»
+
+Si salutarono con un cenno, e lui si allontanò a passo lento.
+
+Cassandra rimase a guardarlo per un momento, poi tornò sui suoi passi, salì sul suo veicolo autonomo e impostò la destinazione: Residenza Lira Halden. «Certo. In questo momento Lira si trova in casa.»
+
+
+La residenza di Lira Halden si ergeva nel quartiere di Lysian Park, una delle zone più eleganti di Aurion. L'edificio era avvolto da giardini curati che sfumavano in boschetti ornamentali, con sentieri in pietra bianca e piccole fontane che riflettevano il cielo. L’ingresso era discreto ma elegante, il tipo di casa che parlava di successo, ma senza ostentazione. Quella era stata la casa di Elias, costruita secondo i suoi progetti, e lì avevano vissuto insieme per anni.
+
+Cassandra scese dal veicolo autonomo e percorse il breve vialetto che conduceva alla porta d’ingresso, passando accanto a piante rare illuminate da luci soffuse. Suonò il campanello, e una nota musicale appena percettibile si diffuse nell’aria. Dopo qualche secondo, la porta si aprì.
+
+Lira Halden apparve sulla soglia, avvolta in un maglione lungo color crema, i capelli raccolti in modo scomposto come chi ha dormito poco e pensato troppo. Il suo viso era stanco ma composto, e quando notò il tesserino digitale con il logo della Urban Security e la matricola sul petto di Cassandra, un’ombra di preoccupazione le attraversò lo sguardo. Le sopracciglia si inarcarono in silenziosa domanda.
+
+«Lei è...?"
+
+«Cassandra Voss. Posso entrare?»
+
+Un cenno del capo, e Cassandra fu accolta in un interno che sapeva di luce e silenzio. Le pareti erano decorate con pannelli artistici dinamici, alternati a fotografie familiari: un uomo e un bambino che ridevano accanto a un orto urbano, un viaggio intorno alla luna, in orbita tra le valli ghiacciate del lato oscuro.
+
+«Mi dica,» disse Lira, chiudendo la porta alle sue spalle.
+
+Cassandra si fermò nel salotto. «Possiamo sederci?»
+
+«Prego da questa parte» disse Lira avanzando verso il grande divano al centro del salotto.
+
+«Sono qui per Elias. È stato trovato morto dopo un incidente successo ieri.»
+
+Lira si irrigidì. «Un incidente?» disse Lira portandosi le mani alla bocca, il viso contratto dal dolore. «Devo... devo dirlo a mio figlio.»
+
+Cassandra si avvicinò lentamente, senza invadere lo spazio dell'altra, ma con una delicatezza che tradiva la sua esperienza. «Lira… capisco che dirlo a tuo figlio sia la cosa più difficile in questo momento,» disse con tono calmo e profondo. «Prenditi il tempo che ti serve. Non c’è fretta, Lira. Troverai le parole giuste, quando sarà il momento.»
+
+Lira non rispose subito, ma si limitò ad annuire lentamente, stringendo le braccia attorno al corpo come per contenere un dolore troppo grande. Cassandra rimase lì, in silenzio, accanto a lei. Non c’era nulla da aggiungere, eppure la sua sola presenza era una forma di sostegno.
+
+«Come è successo?»
+
+«Non possiamo ancora dirlo con certezza. Le cause non sono chiare.»
+
+Lira aggrottò la fronte. «Che vuol dire? È stato investito? Una caduta? Malfunzionamento di un drone?»
+
+Cassandra esitò un istante. «Non abbiamo elementi per escludere o confermare nulla, al momento.»
+
+«Ma c’era qualcun altro? Segni di lotta?»
+
+Ancora silenzio. Poi Cassandra sospirò piano, abbassando lo sguardo per un istante prima di tornare a fissarla. «Ci sono indizi... che lasciano pensare a un possibile attentato.»
+
+Lira sbiancò. «Un attentato? Ma Elias non era un politico, né un militare. Perché?»
+
+«È troppo presto per fare ipotesi,» rispose Cassandra con cautela. «Ma ci sono elementi che ci costringono a prendere in considerazione anche questa possibilità.»
+
+Dopo un momento, Lira riprese a parlare con voce spezzata: «Sai, Elias era sempre impegnato, ma per nostro figlio trovava sempre tempo. Anche quando atterrava tardi, passava a casa solo per dargli la buonanotte. Era… instancabile. E tenero.»
+
+Si sedette sul bordo del divano, stringendosi le braccia. «Ci siamo conosciuti lavorando a un progetto sulla ricostruzione empatica dei ricordi nei soggetti repressi. Un argomento romantico, no?» disse, accennando a un sorriso amaro. «Ma la nostra prima uscita non fu niente di sofisticato. Elias mi invitò a un'esposizione d'arte generativa, e io accettai. Peccato che, per errore, il curatore avesse invertito i parametri del codice. I quadri reagivano agli impulsi neurali con risultati... imbarazzanti.»
+
+«Imbarazzanti?» chiese Cassandra, incuriosita.
+
+«Uno dei quadri lesse la mia eccitazione come paura e proiettò un ciclo continuo di cagnolini che esplodevano in slow motion. Elias rise talmente tanto che si rovesciò addosso un calice di vino. Poi disse: 'Sei molto carina anche quando ti imbarazzi.'»
+
+Si fece silenzio di nuovo, ma stavolta un po’ più dolce.
+
+«Perché vi siete separati?»
+
+«Non era la vita che volevo. Elias viveva per le sue idee, per il lavoro, per le sue cause. E io… io volevo una famiglia che cenasse insieme, che si addormentasse sul divano guardando vecchi film. Non missioni segrete e viaggi in giro per il mondo.»
+
+«E il matrimonio?»
+
+Lira sospirò. «Nel nostro tempo i matrimoni sono contratti privati, come sai. Si rinnovano ogni quattro anni. Noi non ce l’abbiamo fatta. È più facile lasciarsi quando c'è una scadenza, ma non fa meno male.»
+
+Cassandra annuì, rispettosa.
+
+«Se ricordi qualcosa di strano, se noti qualcosa fuori posto contattami. Anche solo per parlare.»
+
+Lira guardò Cassandra con un misto di riconoscenza e stanchezza. «Lo farò.»
+
+Cassandra si alzò. «Mi dispiace, davvero.»
+
+«Io lo amavo. Ho sempre pensato che un giorno saremmo ritornati insieme.»
+
+La porta si richiuse alle sue spalle. Fuori, le strade di Lysian Park erano silenziose, e l’aria era sospesa come in attesa di un cambiamento.

@@ -1,9 +1,7 @@
 # Councilium
-
 Il Councilium è un'entità governativa che rappresenta il cuore pulsante dell'autonomia legislativa e amministrativa delle città-stato futuristiche. Questo alto concilio è finanziato e controllato dalle principali aziende di ciascuna città, conferendo un potere significativo agli interessi corporativi nella gestione degli affari cittadini.
 
 ## Funzioni Principali del Councilium
-
 - Legislazione Autonoma: Il Councilium è responsabile per la creazione e l'implementazione di leggi locali che si adattano alle specifiche esigenze e al contesto socio-economico della città-stato. Questo include regolamentazioni su commercio, sicurezza, urbanistica, ambiente, e altro.
 
 - Integrazione delle Direttive Globali: Una delle funzioni cruciali del Councilium è trasformare le direttive emesse da entità governative sovranazionali, come l'ordine globale "Harmony", in leggi e regolamenti applicabili localmente. Questo processo assicura che le normative globali siano adattate per rispettare le particolarità culturali e economiche della città-stato.
@@ -15,14 +13,12 @@ Il Councilium è un'entità governativa che rappresenta il cuore pulsante dell'a
 - Dialogo con le Corporazioni: Poiché finanziato dalle maggiori aziende, il Councilium funge da ponte tra il governo cittadino e il settore privato, facilitando un dialogo continuo per promuovere uno sviluppo urbano che sia vantaggioso sia per le imprese sia per i cittadini.
 
 ## Importanza Strategica
-
 Il Councilium non è solo un organo legislativo, ma un simbolo del potere e dell'influenza delle aziende nella vita quotidiana della città-stato. La sua esistenza riflette la tensione tra governance democratica e controllo corporativo, un tema centrale in molti scenari distopici e futuristici. La sua efficacia e la sua legittimità sono spesso oggetto di dibattito pubblico e di critica, specialmente riguardo alla trasparenza delle sue operazioni e alla reale rappresentatività dei suoi membri.
 
 Attraverso il Councilium, le città-stato del futuro cercano di navigare le complesse acque della modernità tecnologica, bilanciando progresso e controllo, innovazione e tradizione, in un mondo in rapida evoluzione.
 
-# UrbanSec
-
-UrbanSec rappresenta l'avanguardia nella sicurezza urbana, un corpo di polizia privato finanziato e gestito dalle principali corporazioni che dominano il paesaggio delle città-stato. La sua nascita è stata una risposta diretta all'esigenza di mantenere l'ordine e proteggere gli interessi aziendali in ambienti urbani altamente tecnologizzati e economicamente potenti.
+# Urban Sececurity
+US (Urban Security) rappresenta l'avanguardia nella sicurezza urbana, un corpo di polizia privato finanziato e gestito dalle principali corporazioni che dominano il paesaggio delle città-stato. La sua nascita è stata una risposta diretta all'esigenza di mantenere l'ordine e proteggere gli interessi aziendali in ambienti urbani altamente tecnologizzati e economicamente potenti.
 
 ## Struttura e Operazioni
 UrbanSec è composta da unità altamente addestrate, specializzate in una varietà di compiti di sicurezza, dalla sorveglianza elettronica alla risposta tattica. Gli agenti sono equipaggiati con la tecnologia più avanzata in termini di armamenti, sistemi di comunicazione e dispositivi di sorveglianza, rendendoli capaci di affrontare minacce sia convenzionali sia cybernetiche.
