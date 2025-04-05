@@ -271,6 +271,8 @@ Caleb sentì il respiro farsi irregolare. "Domattina... sì, certo. Arriverò il
 
 Ma Caleb non rispose. Senza dire una parola, si alzò e si fece largo tra la folla, ignorando gli sguardi confusi dei suoi amici e di Daniela. Uscì di corsa dal locale, il respiro irregolare. Non sapeva dove stesse andando. Voleva solo allontanarsi. La notte di festeggiamenti si era trasformata in un incubo.
 
+# Section 2
+
 ## Capitolo 5
 
 La pioggia leggera batteva contro le ampie vetrate del commissariato centrale di Aurion, diffondendo una luce lattiginosa negli ambienti sobri e silenziosi. Cassandra Voss era seduta alla sua scrivania, le mani intrecciate, lo sguardo perso nel flusso di dati che scorrevano sugli ologrammi sospesi davanti a lei. Il volto era impassibile, ma gli occhi rivelavano un’intensità difficile da ignorare.
