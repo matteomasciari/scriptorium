@@ -427,3 +427,62 @@ Cassandra si alzò. «Mi dispiace, davvero.»
 «Io lo amavo. Ho sempre pensato che un giorno saremmo ritornati insieme.»
 
 La porta si richiuse alle sue spalle. Fuori, le strade di Lysian Park erano silenziose, e l’aria era sospesa come in attesa di un cambiamento.
+
+# Capitolo 6
+
+Il giorno seguente, mentre il sole saliva pigro sopra le torri luminose di Aurion, Caleb ricevette una chiamata che non si aspettava. Il logo della Nexora brillava davanti a lui, proiettato sula sua retina.
+
+«Signor Vega,» disse una voce gentile ma formale, «sono Elara Kenz, dell’amministrazione Nexora. Abbiamo appreso con dispiacere della scomparsa di Elias Varek. Il consiglio ha disposto che i suoi effetti personali vengano affidati a lei. Potrebbe raggiungerci oggi?»
+
+Caleb esitò. Nexora era sempre stata un mondo distante, quasi mitologico. Il regno di suo fratello. Eppure, qualcosa lo spinse a rispondere.
+
+«Sì. Arrivo nel pomeriggio.»
+
+Il quartier generale della Nexora si innalzava come una cattedrale di vetro e titanio nel cuore tecnologico di Aurion. I pannelli fotonici lungo le pareti riflettevano il cielo in tempo reale, mentre veicoli silenziosi scorrevano su binari sospesi tra le terrazze. Appena entrato, Caleb fu accolto da un’atmosfera ovattata, con luci naturali, superfici morbide e una calma quasi irreale.
+
+Una donna lo guidò in un ascensore trasparente. «Il suo ufficio era al trentaduesimo livello. Aveva una delle viste più belle dell’intero complesso.»
+
+L’ufficio di Elias era ordinato, quasi troppo. I pannelli olografici spenti, un bonsai su una mensola. Una tazza ancora posata accanto al terminale. Caleb raccolse gli effetti personali con mani incerte: una chiavetta dati criptata, un taccuino digitale, e una fotografia di loro due da bambini. Un pugno allo stomaco.
+
+Stava per uscire quando una voce alle sue spalle lo fermò.
+
+«Sei Caleb, vero?»
+
+Si voltò. Un uomo sulla quarantina, capelli corti e una divisa informale Nexora. Occhi intelligenti, un accenno di sorriso.
+
+«Mi chiamo Janek Sol. Lavoravo spesso con tuo fratello. Era… un genio. E anche una gran testa dura.»
+
+Caleb annuì. «Sì, era entrambe le cose.»
+
+«Sai che ti ha candidato per uno stage qui? Il consiglio ha approvato la selezione, ufficialmente ieri.»
+
+Caleb sbarrò gli occhi. «Non ne sapevo nulla. Elias ha sempre evitato di coinvolgermi nelle sue cose qui.»
+
+Janek alzò le spalle. «Forse voleva tenerti lontano finché non fosse il momento. Forse quel momento è adesso.»
+
+Caleb guardò gli oggetti nelle sue mani. Sentì il peso e il vuoto. «Accetto. Voglio capire. E forse sentirmi più vicino a lui.»
+
+Janek sorrise, annuendo. «Bene. Vieni, ti presento a chi si occuperà del tuo inserimento.»
+
+La guida di Caleb nel cuore di Nexora fu un uomo alto, slanciato, con un completo grigio e una voce calda e controllata. «Io sono Ralen Dusk, responsabile programmi speciali. Benvenuto a bordo, Caleb.»
+
+Camminavano attraverso corridoi silenziosi, dove pareti vive mostravano dati in tempo reale, flussi energetici, reti neurali simulate.
+
+«Tuo fratello ha lasciato un’impronta qui che sarà difficile eguagliare. Ma non impossibile.»
+
+«Non voglio sostituirlo,» disse Caleb. «Voglio solo capire chi era davvero.»
+
+«Allora sei nel posto giusto.»
+
+Giunsero a una terrazza sospesa tra due torri, il cielo azzurro riflesso nei vetri. Un luogo di pausa e osservazione. Ralen si fermò.
+
+«Ti daremo tempo per ambientarti. Intanto, ecco la tua identità provvisoria, e l’accesso ai contenuti autorizzati del suo archivio. Se trovi qualcosa che non capisci… chiedi. Nessuna domanda è banale, Caleb.»
+
+Caleb fissò la scheda di identità digitale che gli era stata consegnata. Il suo nome, accanto al logo Nexora. Un mondo nuovo, ma familiare.
+
+«Grazie, Ralen.»
+
+«Benvenuto nella famiglia.»
+
+E mentre il sole scendeva dietro le guglie di Aurion, per la prima volta da giorni, Caleb sentì di avere uno scopo.
+
