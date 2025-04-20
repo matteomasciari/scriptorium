@@ -1,5 +1,28 @@
 # Scriptorium
 
+## Step scrittura
+
+### 1 - Inizializzazione
+
+1. Definizione idea
+2. Creazione ambientzione
+3. Creazione personaggi
+4. Creazione trama
+5. Verifica sviluppo narrativo
+
+### 2 - Stesura
+
+1. Riassunto breve
+2. Stesura breve
+3. Prima stesura
+
+### 3 - Revisione
+
+1. Omologazione
+2. Controllo ortografico
+3. Controllo semantico
+4. Verifica narrazione
+
 ## Step preliminari
 
 - Testare l’idea: scrivi l’idea in 5-6 righe.
@@ -8,7 +31,7 @@
 - Organizzare il lavoro. Saper gestire il tempo a disposizione significa ottimizzarlo.
 - Costruire i personaggi.
 - Costruire le ambientazioni.
-- verificare lo sviluppo narrativo: che tutto funzioni.
+- Verificare lo sviluppo narrativo: che tutto funzioni.
 - Scrivere la prima bozza del testo.
 - Revisione ed editing della prima bozza.
 - Scrivere la seconda bozza.
