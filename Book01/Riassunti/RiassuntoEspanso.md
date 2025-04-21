@@ -708,7 +708,65 @@ Non riusciva ad accedere a nulla di più, ma sapeva dove cercare. Nexora.
 
 ---
 
-Qualche sera dopo, Caleb entrò di soppiatto nel dipartimento di archivio profondo della Nexora. Con lui c’era Lennox, un tecnico freelance, ex studente di ingegneria computazionale, ora noto per il suo talento nel "bypass etico".
+La giornata iniziò presto. Caleb attraversò gli ingressi lucenti della Nexora poco dopo le otto del mattino. Il badge temporaneo lampeggiò in verde e gli aprì le porte della torre sud. La hall era ampia, con un pavimento in vetro reattivo che si illuminava a ogni passo e pareti animate da flussi dati che danzavano come forme viventi.
+
+Un robot della reception lo attendeva al centro della hall: aveva una forma umanoide slanciata, rivestita in materiale riflettente opalescente, e una maschera digitale sul volto che simulava un’espressione cordiale e priva di ambiguità. Il logo Nexora pulsava sul petto.
+
+«Benvenuto, signor Voss,» disse con voce armonica e neutra. «Il suo accesso è stato riconosciuto. Le è stato assegnato un desk provvisorio nel cluster ricerca E. Posso accompagnarla o preferisce la guida automatica?»
+
+Caleb si fermò un istante, osservando il volto digitale del robot. «Grazie. Elias diceva sempre che il primo giorno in un posto nuovo era come atterrare su un altro pianeta. Vediamo se aveva ragione.»
+
+Fece un cenno con il capo. «Accompagnami. Non voglio perdermi il primo giorno di lavoro.»
+
+Il robot annuì con un movimento perfettamente calibrato. «Seguimi, per favore. Eviteremo le aree ad alta densità di traffico interno.»
+
+Il suo piano era tranquillo, il design minimalista e biotecnologico. Scrivanie integrate nel pavimento, pareti modulabili, IA ambientali che rispondevano alle richieste vocali. Poco prima, Caleb aveva provato a chiedere ad Aria il significato di una dicitura apparsa su un pannello tecnico — "architettura di sincronizzazione R-Theta" — ma l'IA aveva esitato per la prima volta.
+
+«Mi dispiace, Caleb. Questo dato è classificato o non presente nei miei database. Potresti consultare una delle IA ambientali locali: sono collegate direttamente ai sistemi interni Nexora.»
+
+Ed era proprio per richieste come quella che le IA integrate non bastavano: servivano le interfacce connesse alle infrastrutture aziendali.
+
+Durante la pausa caffè, fu avvicinato da un collega alto, con occhiali neurotrasparenti.
+
+«Tu devi essere il fratello di Elias. Io sono Harun. Ho lavorato con lui nel programma Zenos. Benvenuto.»
+
+Caleb annuì con gratitudine. «Piacere mio. Non sapevo nemmeno che mi avesse candidato.»
+
+«Tipico di Elias,» sorrise Harun. «Faceva le cose importanti in silenzio.»
+
+Durante il pranzo, Caleb si sedette da solo in una delle terrazze pensili, tra pareti verdi e pannelli solari organici. Attivò un’interfaccia privata con Aria.
+
+«Cerca il termine: Progetto Amrita. Internamente.»
+
+«Nessun risultato nei registri aperti. Vuoi che scandagli gli archivi sotto protocollo beta?»
+
+«Vai.»
+
+Dopo qualche secondo, Aria rispose. «Ho trovato un riferimento incrociato. Nome progetto: Amrita. Codice troncato. Collegato a un'infrastruttura orbitante: STAZIONE KALYANI.»
+
+«E cos’altro?»
+
+«Accesso negato. Livello di autorizzazione insufficiente.»
+
+Caleb digrignò i denti. Era un indizio. Ma ancora troppo poco.
+
+Alla fine della giornata, Caleb si diresse verso il centro di Aurion. Daniela lo stava aspettando davanti al ristorante che avevano scelto. Era una struttura elegante ma moderna, con tavoli interattivi e luci calde che si adattavano all’umore dei clienti.
+
+Daniela lo accolse con un sorriso affettuoso. «Ehi. Hai un'aria strana. Giornata intensa?»
+
+«Puoi dirlo forte.» Si sedettero. «Ti ricordi quel cubo? Il Lattice? Ho trovato qualcosa dentro. Si chiama Progetto Amrita. Sembra collegato a una stazione orbitale e... a mio fratello.»
+
+Daniela si fece seria. «Cosa intendi per collegato?»
+
+«Non so ancora. Ma non riesco ad accedere a nulla. L'unico riferimento è bloccato. Servono credenziali più alte.»
+
+Lei si appoggiò al tavolo, pensierosa. «Potresti parlare con Milo. Ti ricordi di lui? Si è specializzato in IA applicata alla decodifica di sistemi chiusi. Lavora in zona, e... ha ancora un debole per le cause impossibili.»
+
+Caleb sollevò le sopracciglia. «Ottimo. Lo contatto domani.»
+
+Daniela sorrise, toccandogli il braccio. «Vedi? Non sei solo in questa storia.»
+
+Caleb ricambiò il sorriso, per la prima volta davvero rilassato da giorni. dopo, Caleb entrò di soppiatto nel dipartimento di archivio profondo della Nexora. Con lui c’era Lennox, un tecnico freelance, ex studente di ingegneria computazionale, ora noto per il suo talento nel "bypass etico".
 
 «Se ci beccano... ci spediscono su Titano a rimettere a posto i robot delle miniere,» borbottò Lennox mentre decifrava un pannello biometrico.
 
@@ -718,11 +776,11 @@ Si muovevano come ombre tra corridoi metallici, illuminati solo da guide al fosf
 
 Caleb inserì il Lattice in un'interfaccia universale. Lo schermo sfarfallò.
 
-**ACCESSO CONCESSO - Livello T3**
+ACCESSO CONCESSO - Livello T3
 
 Linee di codice scorsero a cascata, seguite da immagini. Schemi orbitanti. Planimetrie.
 
-**LABORATORI: STAZIONE KALYANI (orbita terrestre) | AVANTIS (orbita lunare)**
+LABORATORI: STAZIONE KALYANI (orbita terrestre) | AVANTIS (orbita lunare)
 
 Dati parziali. Studi su cellule neuroplastiche. Recupero della coscienza dopo stati terminali. Mappe neurologiche estese.
 
