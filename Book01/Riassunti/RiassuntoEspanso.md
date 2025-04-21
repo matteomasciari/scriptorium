@@ -486,3 +486,66 @@ Caleb fissò la scheda di identità digitale che gli era stata consegnata. Il su
 
 E mentre il sole scendeva dietro le guglie di Aurion, per la prima volta da giorni, Caleb sentì di avere uno scopo.
 
+# Capitolo 7 
+
+Cassandra Voss era nel suo ufficio al piano 27 del distretto UrbanSec, un ambiente minimalista, dalle pareti metalliche reattive che mutavano luminosità in base ai parametri biometrici. Una finestra affacciava sui giardini verticali di Aurion, e nella stanza aleggiava l’aroma neutro della concentrazione: aria filtrata, silenzio funzionale, e la promessa di verità.
+
+Il pannello olografico davanti a lei emise un segnale acustico.
+
+«Rapporto dell’autopsia disponibile.»
+
+«Mostra tutto,» ordinò Cassandra, e i dati si srotolarono davanti a lei in colonne di parametri medici, tracciati biometrici e ricostruzioni neurali.
+
+Dopo pochi secondi di lettura, si fermò, gli occhi serrati su una frase in rosso:
+
+Costituzione muscolare incompleta - sviluppo post-puberale non pienamente raggiunto.
+
+«Che diavolo significa?» mormorò.
+
+Fu allora che la porta si aprì, e uno dei suoi collaboratori entrò, seguito dal robot di servizio. Era Loris Venn, un giovane agente dal volto serio e dallo sguardo determinato. Grazie all'interfaccia neurale integrata, era in grado di registrare e rivedere ogni dettaglio delle missioni con una precisione superiore a qualsiasi supporto esterno, come se ogni dettaglio potesse avvicinarlo un giorno al ruolo che ambiva: diventare capo agente, proprio come Cassandra. Dietro di lui, il robot di servizio URB-9, nome operativo "Rook", alto due metri, color antracite, silenzioso ma onnipresente, prese posizione vicino alla parete principale.
+
+Loris si affacciò sulla soglia con un mezzo sorriso. «Hai un'aria da 'ho appena visto qualcosa che non mi piace'.»
+
+Cassandra lo fissò. «Solo una mattina normale in UrbanSec.»
+
+«Perfetto. Le mattine tranquille mi mettono a disagio.» Si avvicinò, posando una mano sulla spalla del robot. «Rook stamattina ha provato a correggermi la grammatica. Pensa che non debba più dire “spazzatura” ma “materiale di scarto post-urbano”.»
+
+Il robot URB-9 inclinò lievemente il capo. «Terminologia aggiornata secondo il protocollo semantico standard. Il termine “spazzatura” è obsoleto.»
+
+Cassandra scosse la testa, trattenendo un sorriso. «Rook, un giorno dovrò aggiornarti anche sul sarcasmo.»
+
+Il robot rimase immobile, poi rispose: «Sarcasmo rilevato. Nessuna azione richiesta.»
+
+Cassandra lanciò uno sguardo complice a Loris. «Sedetevi. Abbiamo un problema.»
+
+«Lo hai letto?» chiese Loris, sedendosi accanto al tavolo.
+
+Cassandra annuì. «Sì. E mi spaventa. Elias aveva 43 anni. Il cadavere che abbiamo sembra averne a malapena 20, e con una muscolatura non completamente formata.»
+
+Loris si accigliò. «Un errore nel rapporto? O qualcuno ha fatto qualcosa al suo corpo prima che lo trovassimo?»
+
+Rook proiettò un ologramma 3D del corpo. «Struttura ossea coerente con Elias Voss. Tracciati neurali compatibili. Ma i tessuti muscolari mostrano segni di crescita artificiale accelerata.»
+
+Cassandra incrociò le braccia. «Voglio sapere tutto su Elias. Salute, genetica, vita quotidiana. Echo, scan completo archivio pubblico e privato autorizzato.»
+
+La sua IA rispose con tono rapido. «Nessuna patologia. Nessuna terapia. Stato di salute eccellente. Parametri ottimali. Nessun segnale di degenerazione genetica.»
+
+Non soddisfatta, Cassandra aprì un canale diretto. «Chiama Caleb Voss.»
+
+La comunicazione si avviò. Dopo pochi secondi, il volto di Caleb comparve sullo schermo.
+
+«Caleb, scusami se ti disturbo. Ho bisogno di farti una domanda. Elias... aveva qualche problema di salute che non conosciamo?»
+
+Caleb sembrava sorpreso. «No, anzi. Era in perfetta forma. Ogni mattina andava a correre nel parco cittadino. Non prendeva farmaci, seguiva una dieta bilanciata. Perché?»
+
+Cassandra esitò. «Abbiamo ricevuto i risultati dell’autopsia. E... c’è qualcosa che non torna. Il corpo presenta caratteristiche fisiche atipiche. Sviluppo muscolare incompleto, come se fosse... più giovane del previsto.»
+
+Caleb sgranò gli occhi. «Stai dicendo che... non era mio fratello?»
+
+«No. Biologicamente lo era. Ma qualcosa è stato alterato. O nascosto.»
+
+Quando terminò la chiamata, Milo si girò verso Cassandra. «Da dove iniziamo?»
+
+Lei si voltò verso il pannello olografico e pronunciò una sola parola:
+
+«Nexora.»
