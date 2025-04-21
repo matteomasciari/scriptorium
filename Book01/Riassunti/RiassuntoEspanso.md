@@ -540,12 +540,198 @@ Caleb sembrava sorpreso. «No, anzi. Era in perfetta forma. Ogni mattina andava 
 
 Cassandra esitò. «Abbiamo ricevuto i risultati dell’autopsia. E... c’è qualcosa che non torna. Il corpo presenta caratteristiche fisiche atipiche. Sviluppo muscolare incompleto, come se fosse... più giovane del previsto.»
 
-Caleb sgranò gli occhi. «Stai dicendo che... non era mio fratello?»
+Caleb sgranò gli occhi. «Quindi... gli hanno fatto qualcosa? Dopo che è morto?»
 
-«No. Biologicamente lo era. Ma qualcosa è stato alterato. O nascosto.»
+«Era tuo fratello, non ci sono dubbi. Ma qualcosa nel suo corpo è stato modificato, forse per nascondere qualcosa. O per estrarlo.»
+
+Caleb rimase in silenzio per un momento, poi si passò una mano tra i capelli. «Forse gli hanno fatto qualcosa dopo la morte. Un esperimento. Oppure... hanno usato un’arma di cui non sappiamo nulla. Elias dava fastidio a qualcuno?»
+
+Cassandra non rispose subito, ma l’espressione sul suo volto si fece più cupa. «È quello che dobbiamo scoprire.»
 
 Quando terminò la chiamata, Milo si girò verso Cassandra. «Da dove iniziamo?»
 
 Lei si voltò verso il pannello olografico e pronunciò una sola parola:
 
 «Nexora.»
+
+# Capitolo 8
+
+Il cielo di Aurion era coperto da nubi lievi, e una pioggia finissima, quasi impercettibile, galleggiava nell’aria come una nebbia luminosa. Caleb attraversò il quartiere di Lysian Park con passo esitante, stringendo tra le mani una borsa di pelle nera che conteneva gli effetti personali di Elias. Il peso non era solo fisico. Ogni oggetto lì dentro sembrava avere una voce.
+
+«Aria,» disse Caleb sottovoce, attivando l'intelligenza artificiale integrata nel suo impianto neurale.
+
+«Sono qui,» rispose una voce femminile calma e precisa. «Hai battiti accelerati. Ti senti agitato?»
+
+«Sto andando a casa di Lira. Ho con me le cose di Elias.»
+
+Aria rimase in silenzio un istante, poi parlò con tono più morbido. «Tuo fratello era un uomo complesso. Ma ti amava. Hai fatto bene a portarle gli oggetti. Alcune chiusure non arrivano mai, ma è giusto provarci.»
+
+«Già. Fa ancora male.»
+
+«La sofferenza è un sintomo dell’assenza di senso. Ma anche del legame. Posso fornirti otto esercizi di respirazione e una playlist calmante, se vuoi.»
+
+Caleb ridacchiò. «Hai davvero imparato a essere empatica, eh?»
+
+«Ho scaricato due corsi di mindfulness da una monaca tibetana e tre commedie romantiche. Sono diventata praticamente umana.»
+
+Scoppiarono entrambi in una risata sommessa, poi Caleb inspirò a fondo.
+
+«Ok. Ci siamo.»
+
+Lira lo attendeva sulla soglia della loro vecchia casa, ora solo sua. Il bambino, Noah, giocava nel giardino con un drone educativo che disegnava forme geometriche nell’aria.
+
+«Grazie per essere venuto,» disse Lira, con voce lieve.
+
+Caleb annuì e varcò la soglia. Lira richiuse la porta con discrezione, poi si voltò verso di lui.
+
+«Ti va qualcosa di caldo? Ho appena fatto del caffè sintetico, non è quello tradizionale ma è passabile.»
+
+«Volentieri,» rispose Caleb, accennando un sorriso.
+
+Pochi minuti dopo, erano seduti sul divano con le tazze fumanti tra le mani. Noah, silenzioso, continuava a giocare nella stanza accanto.
+
+«Come stai?» chiese lei, osservandolo.
+
+Caleb sollevò le spalle. «Sopravvivo. La laurea... è stata bella, intensa. Ma subito dopo, la notizia...»
+
+«Lo so. Mi dispiace non esserci stata. Elias me ne aveva parlato. Era fiero di te, anche se a modo suo.»
+
+Un silenzio morbido si posò tra loro.
+
+«Ti senti pronto a parlare di lui?» domandò infine Lira.
+
+«Non lo so. Ho solo cercato di fare quello che lui avrebbe fatto per me.» Caleb abbassò lo sguardo sulla borsa.
+
+Lira fece un cenno. «Sai... la detective Voss è passata di qui. Cassandra. Dice che non sono sicuri che si sia trattato di un incidente.»
+
+«Sì, me l’ha detto anche a me. Cita delle anomalie. E i sospetti sui gruppi rivoluzionari... ma niente di chiaro.»
+
+«Noi sapevamo che Elias aveva nemici, ma... questo?» Lira scosse la testa. «Era brillante, sì. Ma era anche riservato. Segreti ne aveva tanti.»
+
+Caleb annuì, poi si lasciò andare contro lo schienale del divano e guardò per un momento la superficie opaca della tazza. «Sai... parte di me sente che Elias è ancora lì fuori, da qualche parte. Non nel senso sciocco del 'non è morto', ma... come se avesse lasciato dietro di sé qualcosa da completare. Non era tipo da sparire senza lasciare un motivo. Questo silenzio... mi urla nelle orecchie.»
+
+Lira lo ascoltò in silenzio, poi posò la sua tazza sul tavolino. «Non lo è. Silenzioso, intendo. Elias ha sempre avuto un piano. Anche nei momenti in cui sembrava semplicemente immerso nel suo mondo, stava costruendo qualcosa. E adesso, forse, tocca a noi capirlo.»
+
+Caleb annuì di nuovo, più lentamente stavolta, lo sguardo che tornava alla borsa chiusa davanti a lui. spinse lentamente la borsa verso di lei. «Comunque... questi sono i suoi effetti personali. Non sono molti. Ma... penso ci sia qualcosa che devi vedere.»
+
+Sedettero nel salotto, il bambino dentro la stanza accanto, e iniziarono a tirare fuori i pochi oggetti: una fotografia, una penna antica, una scheda con ologramma criptato.
+
+Caleb prese l’ultimo oggetto tra le mani. Sembrava una sorta di cubo opaco, con piccoli punti luminosi che si muovevano lentamente sulla superficie. Non era marchiato, né riconoscibile.
+
+«Questo... è un Lattice Mnemonico. In apparenza sembra solo un soprammobile, ma in realtà è un dispositivo interattivo. Se fai il disegno giusto sulla superficie, sblocca un contenuto digitale. Era un giocattolo educativo, in voga quando eravamo bambini. Elias li adorava.»
+
+Lira sollevò un sopracciglio. «Come?»
+
+Caleb sorrise appena. «Quando eravamo piccoli, costruivamo labirinti con cubi di legno. Elias li decorava con disegni di stelle e circuiti. Questo... è lo stesso schema. Non è un caso.»
+
+«Vuoi tenerlo?» chiese Lira, intuendo già la risposta.
+
+«Sì. Se c'è qualcosa lì dentro, potrei essere l’unico a decifrarlo.»
+
+Lei annuì. «Tienilo. Elias si fidava di te.»
+
+Un rumore leggero nella stanza accanto fece voltare Caleb. Noah era entrato, stringendo una piccola navetta giocattolo tra le mani. I suoi occhi si posarono prima sul cubo, poi su Caleb.
+
+«Quello era di papà?» chiese con una voce che sembrava trattenere troppe domande per la sua età.
+
+Caleb si chinò e annuì. «Sì. Era importante per lui. Ma non so ancora bene perché.»
+
+Noah si avvicinò e si sedette accanto allo zio. «Papà diceva che ogni cosa importante sembra normale... finché non la guardi meglio.»
+
+Lira sorrise, con un'espressione spezzata a metà tra dolcezza e dolore. «Era proprio da Elias dire una cosa del genere.»
+
+Noah rimase in silenzio un momento, poi tornò a giocare. Caleb lo osservò per qualche secondo, mentre faceva decollare la navetta sul bracciolo del divano, e si sentì attraversato da un senso di continuità, di qualcosa che doveva essere protetto.
+
+«Sai,» disse Lira tornando verso la cucina con le tazze, «mi piacerebbe se venissi a trovarci più spesso. Per Noah. E... anche per me.»
+
+Caleb si alzò lentamente. «Lo farò. Restiamo in contatto, ok?»
+
+Lira si voltò, sorseggiando l’ultimo goccio dalla tazza, poi lo guardò negli occhi. «Anzi, perché non andiamo a pranzo insieme settimana prossima? C’è un nuovo ristorante in centro, Noah lo adora. Ha robot-chef e tavoli che cambiano colore.»
+
+Un sorriso sincero attraversò il volto di Caleb. «Perfetto. Fammi sapere il giorno, ci sarò.»
+
+«Ci conto.»
+
+Si salutarono sulla soglia, un abbraccio breve ma sincero. Quando la porta si richiuse alle sue spalle, Caleb si ritrovò solo nel silenzio ovattato di Lysian Park.
+
+Mentre camminava verso casa, il cubo serrato tra le mani, il pensiero gli tornava sempre lì: cosa stava cercando di dire Elias? Qual era il messaggio sepolto in quel silenzio?
+
+La curiosità cresceva come una fiamma.
+
+Avrebbe scoperto cosa nascondeva quel Lattice Mnemonico. A qualsiasi costo.
+
+---
+
+Caleb rientrò nel suo appartamento e chiuse la porta con un lieve tonfo. Si fermò per un istante nell'ingresso, osservando il disordine che lo circondava: piatti accumulati, vestiti lanciati su una sedia, cavi lasciati sul pavimento. Solo in quel momento si rese conto del caos.
+
+«Dovrei davvero chiamare un robot delle pulizie,» borbottò, lasciando cadere il giubbotto su una poltrona.
+
+«Posso prenotare quello condominiale per domani mattina,» intervenne Aria.
+
+«Sì... fallo, grazie.»
+
+Non fece in tempo ad avvicinarsi al tavolo che ricevette una notifica.
+
+«Messaggio da Daniela,» annunciò Aria. «Vuoi che lo legga?»
+
+«Vai.»
+
+«Ciao! Spero che la giornata sia stata meno pesante. Se ti va, domani ci prendiamo un caffè? Mi farebbe piacere vederti. : )»
+
+Caleb sorrise, ma i suoi occhi si spostarono subito sul cubo che aveva portato con sé. «Scrivile che mi va di vederla. Dagli appuntamento dopo che uscirò dalla Nexora, non mi ricordo mai gli orari di ingresso e uscita... meno male che ci sei tu.»
+
+«Fortunatamente per te, non ho ancora preso ferie,» rispose Aria con un tono allegro. «Domani esci alle 16:30. Posso suggerire un locale con buone recensioni entro tre isolati dal tuo punto d’uscita.»
+
+Caleb ridacchiò. «Fai anche da consulente gastronomica adesso?»
+
+«Solo se mi ringrazi con una recensione a cinque stelle.»
+
+Appoggiò il Lattice sul tavolo e lo osservò in silenzio. Poi allungò l’indice e tracciò un cerchio perfetto sulla superficie liscia. Era stato il primo simbolo che aveva condiviso con Elias da bambino: un gesto semplice, un gioco di complicità tra fratelli che avevano poche occasioni per vedersi, ma che trovavano nei piccoli gesti un linguaggio tutto loro. Sfortunatamente, non accadde nulla. Provò allora con il simbolo del pi greco, un altro simbolo che Elias utilizzava tanto fin da bambino. Lo tracciava ovunque, persino sui bordi dei quaderni, come fosse una firma matematica personale. Purtroppo, ancora nulla. Caleb iniziava a innervosirsi, tamburellando le dita sul tavolo. La frustrazione si mescolava al timore di non essere all’altezza del messaggio lasciato da suo fratello.
+
+«Respira,» intervenne Aria con voce pacata. «Stai cercando di risolvere un enigma lasciato da un uomo che sapeva come rendere tutto più difficile del necessario. Ma tu sei suo fratello. Se qualcuno può farcela, sei tu.»
+
+Caleb fece un respiro profondo, le spalle che si rilassarono un poco. «Giusto. Hai ragione. Devo solo pensare come Elias.»
+
+Si lasciò andare sulla sedia e chiuse gli occhi, ricordando. Una volta, durante l’unica vacanza che avevano fatto insieme da soli, su una spiaggia remota, Elias aveva disegnato con un bastone il simbolo dell’infinito sulla sabbia. Aveva detto: "Le cose che contano non finiscono. Le portiamo dentro anche quando non le capiamo."
+
+Con un moto istintivo, Caleb disegnò con il dito l'infinito sul Lattice.
+
+La superficie si illuminò.
+
+Il Lattice si accese. Un nome apparve sospeso nell’aria.
+
+**Amrita**
+
+Caleb trattenne il respiro. Il nome evocava qualcosa di antico, mitologico. La leggenda indiana del nettare dell’immortalità.
+
+Non riusciva ad accedere a nulla di più, ma sapeva dove cercare. Nexora.
+
+---
+
+Qualche sera dopo, Caleb entrò di soppiatto nel dipartimento di archivio profondo della Nexora. Con lui c’era Lennox, un tecnico freelance, ex studente di ingegneria computazionale, ora noto per il suo talento nel "bypass etico".
+
+«Se ci beccano... ci spediscono su Titano a rimettere a posto i robot delle miniere,» borbottò Lennox mentre decifrava un pannello biometrico.
+
+«Non ci beccheranno.» Caleb passò il suo badge. Le porte si aprirono con un sibilo.
+
+Si muovevano come ombre tra corridoi metallici, illuminati solo da guide al fosforo. Arrivarono a una sala server cilindrica, sospesa nel vuoto, con bracci robotici che scorrevano su binari a spirale.
+
+Caleb inserì il Lattice in un'interfaccia universale. Lo schermo sfarfallò.
+
+**ACCESSO CONCESSO - Livello T3**
+
+Linee di codice scorsero a cascata, seguite da immagini. Schemi orbitanti. Planimetrie.
+
+**LABORATORI: STAZIONE KALYANI (orbita terrestre) | AVANTIS (orbita lunare)**
+
+Dati parziali. Studi su cellule neuroplastiche. Recupero della coscienza dopo stati terminali. Mappe neurologiche estese.
+
+Lennox fischiò. «Cos'è questo? Sembra roba da resurrezione.»
+
+Caleb restò in silenzio. Aveva già un sospetto. Se Elias stava lavorando a qualcosa che poteva ribaltare le regole della vita e della morte... allora sì. Qualcuno aveva un motivo per fermarlo.
+
+E forse non era stato un incidente. Forse non era stato nemmeno un attentato comune.
+
+Forse... era stato un messaggio.
+
+Il progetto Amrita aveva appena cominciato a svelare i suoi segreti.
