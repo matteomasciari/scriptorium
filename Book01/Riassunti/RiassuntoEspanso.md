@@ -668,7 +668,7 @@ Caleb rientrò nel suo appartamento e chiuse la porta con un lieve tonfo. Si fer
 
 «Posso prenotare quello condominiale per domani mattina,» intervenne Aria.
 
-«Sì... fallo, grazie.»
+«Sì... fallo, grazie. Anche se un po' datato fa ancora il suo lavoro, quindi prenotalo.»
 
 Non fece in tempo ad avvicinarsi al tavolo che ricevette una notifica.
 
@@ -700,7 +700,7 @@ La superficie si illuminò.
 
 Il Lattice si accese. Un nome apparve sospeso nell’aria.
 
-**Amrita**
+**Progetto Amrita**
 
 Caleb trattenne il respiro. Il nome evocava qualcosa di antico, mitologico. La leggenda indiana del nettare dell’immortalità.
 
@@ -720,21 +720,85 @@ Fece un cenno con il capo. «Accompagnami. Non voglio perdermi il primo giorno d
 
 Il robot annuì con un movimento perfettamente calibrato. «Seguimi, per favore. Eviteremo le aree ad alta densità di traffico interno.»
 
-Il suo piano era tranquillo, il design minimalista e biotecnologico. Scrivanie integrate nel pavimento, pareti modulabili, IA ambientali che rispondevano alle richieste vocali. Poco prima, Caleb aveva provato a chiedere ad Aria il significato di una dicitura apparsa su un pannello tecnico — "architettura di sincronizzazione R-Theta" — ma l'IA aveva esitato per la prima volta.
+Camminarono attraverso un corridoio ampio che si apriva su una vetrata panoramica. «Alla sua destra, l’area mensa. I pasti vengono preparati da moduli nutrizionali adattivi con personalizzazione gustativa.»
+
+Poco dopo, attraversarono una zona con pareti vive e divani bassi. «Questa è l’area relax. I dipendenti possono accedervi nei tempi di recupero cognitivo.»
+
+Un paio di curve dopo, entrarono in un ambiente aperto con strutture leggere e schermi tridimensionali sospesi: l’area svago.
+
+«Abbiamo tornei di simulazione ogni giovedì. Virtualità narrativa, strategia, e occasionali sessioni di yoga quantistico. I partecipanti mettono in palio NexCoin, la nostra criptovaluta interna, spendibile solo tra dipendenti Nexora. Un modo per tenere vivo lo spirito competitivo.»
+
+Caleb sollevò un sopracciglio. «Yoga quantistico e scommesse aziendali? D’accordo, queste me le segno.»
+
+Attraversarono infine una sezione più silenziosa, le luci più soffuse. Un grande vetro mostrava una sala con piccoli tavolini colorati e IA assistenti in miniatura che si muovevano tra disegni e giochi.
+
+«L’asilo aziendale è disponibile per tutti i dipendenti con figli. È certificato secondo i protocolli emotivi XR.»
+
+Caleb sorrise. «Apprezzo l’impegno. Ma non penso che ne approfitterò presto.»
+
+«Registrato,» disse il robot con la stessa calma neutra.
+
+Poco dopo, arrivarono a un openspace ampio, ordinato, pieno di postazioni ergonomiche e luci intelligenti. Il robot si fermò davanti a una scrivania dove comparve il nome "Caleb Voss" in caratteri luminosi.
+
+«Questa è la sua postazione provvisoria. Tutti i dati necessari al primo accesso sono stati caricati. Benvenuto alla Nexora.»
+
+«Grazie per il tour,» disse Caleb, mentre il robot si voltava e tornava verso l’area d’accoglienza senza dire altro.
+
+Il suo piano era tranquillo, il design minimalista e c'erano delle grandi vetrate che permettevano alla luce naturale di entrare e creare armonia. Scrivanie integrate nel pavimento, pareti modulabili, IA ambientali che rispondevano alle richieste vocali. Poco prima, Caleb aveva provato a chiedere ad Aria il significato di una dicitura apparsa su un pannello tecnico — "architettura di sincronizzazione R-Theta" — ma l'IA aveva esitato per la prima volta da quando aveva memoria.
 
 «Mi dispiace, Caleb. Questo dato è classificato o non presente nei miei database. Potresti consultare una delle IA ambientali locali: sono collegate direttamente ai sistemi interni Nexora.»
 
 Ed era proprio per richieste come quella che le IA integrate non bastavano: servivano le interfacce connesse alle infrastrutture aziendali.
 
+Caleb si avvicinò a una delle IA ambientali installate lungo la parete, dove una sottile interfaccia luminescente prendeva vita non appena percepiva la sua presenza.
+
+«Architettura di sincronizzazione R-Theta. Cos'è?» chiese a bassa voce.
+
+Una figura olografica si materializzò, un volto neutro, androgino, che parlò con chiarezza: «Sistema utilizzato per la coerenza temporale tra unità computazionali distribuite. Impiega algoritmi di predizione ciclica per sincronizzare flussi di dati in ambienti multi-orbita.»
+
+Caleb annuì lentamente. «Perfetto. Ecco perché Aria non poteva saperlo.»
+
+Fece un altro passo indietro. «Posso farti una domanda?»
+
+«Naturalmente.»
+
+«Perché esistete voi IA ambientali, se abbiamo già impianti neurali e assistenti personali?»
+
+«Le IA integrate nei soggetti umani non sono autorizzate ad accedere a contenuti classificati o a banche dati locali protette. Noi fungiamo da ponte operativo tra le identità esterne e le infrastrutture aziendali. Inoltre, il nostro utilizzo mantiene separate le tracce di interrogazione, garantendo una maggiore sicurezza informativa.»
+
+«Chiaro,» disse Caleb con un mezzo sorriso, «state a metà tra il bibliotecario e il firewall.»
+
+Con quella informazione in tasca, tornò alla sua scrivania, ancora incerto su cosa esattamente dovesse fare, ma deciso a esplorare ogni anomalia con attenzione.
+
 Durante la pausa caffè, fu avvicinato da un collega alto, con occhiali neurotrasparenti.
 
 «Tu devi essere il fratello di Elias. Io sono Harun. Ho lavorato con lui nel programma Zenos. Benvenuto.»
 
-Caleb annuì con gratitudine. «Piacere mio. Non sapevo nemmeno che mi avesse candidato.»
+Caleb annuì con gratitudine. «Piacere mio. È il mio giorno, sono qui, ma io non sapevo nemmeno che mi avesse candidato per questa posizione, è stata una sorpresa.»
 
 «Tipico di Elias,» sorrise Harun. «Faceva le cose importanti in silenzio.»
 
-Durante il pranzo, Caleb si sedette da solo in una delle terrazze pensili, tra pareti verdi e pannelli solari organici. Attivò un’interfaccia privata con Aria.
+Fece una pausa, poi il suo volto si fece più serio. «Mi dispiace davvero per quello che è successo. Tutti qui ne siamo rimasti scossi. È stato... strano. Nessuno riesce a capire come quei rivoltosi abbiano fatto a entrare in città. I sistemi di controllo sono sofisticatissimi. Neutralizzarli richiede accessi che solo pochi dovrebbero avere.»
+
+Harun frugò nella tasca della giacca e tirò fuori una piccola scatola piatta in metallo levigato. «Questo è da parte degli amici di Elias. Ne aveva molti qui dentro. Abbiamo pensato che ti avrebbe fatto piacere avere qualcosa che testimonia quanto fosse amato anche al di là del lavoro.»
+
+Caleb prese la scatola, visibilmente toccato. «Grazie, davvero.» Aprì con cautela il coperchio e all’interno trovò un sottile proiettore olografico, di quelli da tasca. Lo attivò con un leggero tocco e un ventaglio di luce si dispiegò davanti a lui, mostrando immagini in sequenza: Elias a convegni scientifici, in presentazioni tecniche, durante momenti informali con colleghi e amici. In alcune foto rideva apertamente, in altre posava con serietà accanto a volti che Caleb non conosceva ancora, ma che ora avrebbero fatto parte del suo stesso cammino.
+
+«È per la memoria di Elias,» disse Harun con voce misurata. «Ma anche per farti vedere che non sei solo. Tutti quelli che vedi lì dentro erano suoi amici. E ora... ci siamo anche per te.» Continuò, con un sorriso appena accennato: «Se ti va, unisciti a noi per pranzo oggi. Sarebbe un buon momento per presentarti agli altri. Molti volevano conoscerti già da tempo.»
+
+Durante il pranzo, Caleb si ritrovò seduto su una delle terrazze pensili insieme ad Harun e ad altri colleghi di Elias. Le pareti verdi e i pannelli solari organici creavano un ambiente rilassante, punteggiato dalle voci dei dipendenti e dal lieve fruscio delle foglie artificiali che muovevano appena al vento riciclato.
+
+Harun lo aveva fatto accomodare accanto a due donne e un uomo: rispettivamente Zira, una biologa dei materiali, Tamaya, esperta di sistemi predittivi, e Morten, analista senior con l’aria di chi aveva passato più tempo nei server che sotto il sole.
+
+I primi scambi furono cordiali, poi lentamente si sciolsero nei ricordi.
+
+«Elias aveva questa abitudine,» disse Zira ridendo, «di lasciare messaggi criptici nei report solo per vedere chi li notava. Una volta ha inserito un intero haiku nel codice commentato di una simulazione.»
+
+«Era un genio con un’ironia tagliente,» aggiunse Morten. «Ma ti difendeva sempre. Anche se sbagliavi, se capiva che eri in buona fede, ti copriva. Non dimenticherò mai quello.»
+
+Caleb ascoltava, annuendo, sentendo dentro di sé qualcosa che somigliava alla gratitudine e alla nostalgia. Alla fine del pranzo, si congedarono con strette di mano sincere e promesse di ritrovarsi.
+
+Tornato alla scrivania, ancora carico di emozioni, Caleb si sedette e si appoggiò allo schienale. Si guardò intorno, poi attivò l’interfaccia della IA ambientale con un cenno.
 
 «Cerca il termine: Progetto Amrita. Internamente.»
 
@@ -742,13 +806,15 @@ Durante il pranzo, Caleb si sedette da solo in una delle terrazze pensili, tra p
 
 «Vai.»
 
-Dopo qualche secondo, Aria rispose. «Ho trovato un riferimento incrociato. Nome progetto: Amrita. Codice troncato. Collegato a un'infrastruttura orbitante: STAZIONE KALYANI.»
+Dopo qualche secondo, la IA rispose: «Ho trovato un riferimento incrociato. Nome progetto: Amrita. Codice troncato. Collegato a un'infrastruttura orbitante: STAZIONE KALYANI.»
 
 «E cos’altro?»
 
 «Accesso negato. Livello di autorizzazione insufficiente.»
 
 Caleb digrignò i denti. Era un indizio. Ma ancora troppo poco.
+
+---
 
 Alla fine della giornata, Caleb si diresse verso il centro di Aurion. Daniela lo stava aspettando davanti al ristorante che avevano scelto. Era una struttura elegante ma moderna, con tavoli interattivi e luci calde che si adattavano all’umore dei clienti.
 
@@ -776,11 +842,11 @@ Si muovevano come ombre tra corridoi metallici, illuminati solo da guide al fosf
 
 Caleb inserì il Lattice in un'interfaccia universale. Lo schermo sfarfallò.
 
-ACCESSO CONCESSO - Livello T3
+**ACCESSO CONCESSO - Livello T3**
 
 Linee di codice scorsero a cascata, seguite da immagini. Schemi orbitanti. Planimetrie.
 
-LABORATORI: STAZIONE KALYANI (orbita terrestre) | AVANTIS (orbita lunare)
+**LABORATORI: STAZIONE KALYANI (orbita terrestre) | AVANTIS (orbita lunare)**
 
 Dati parziali. Studi su cellule neuroplastiche. Recupero della coscienza dopo stati terminali. Mappe neurologiche estese.
 
@@ -793,3 +859,4 @@ E forse non era stato un incidente. Forse non era stato nemmeno un attentato com
 Forse... era stato un messaggio.
 
 Il progetto Amrita aveva appena cominciato a svelare i suoi segreti.
+
