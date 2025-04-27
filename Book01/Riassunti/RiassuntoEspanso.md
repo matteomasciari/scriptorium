@@ -660,7 +660,41 @@ La curiosità cresceva come una fiamma.
 
 Avrebbe scoperto cosa nascondeva quel Lattice Mnemonico. A qualsiasi costo.
 
----
+# Capitolo 6B
+
+### Capitolo 6b - Il Silenzio di Elias
+
+Il funerale si tenne nel giardino verticale della memoria, uno spazio immerso nella quiete, sospeso su una piattaforma galleggiante sopra il Lago Vireon. Era un luogo senza simboli religiosi, ma pieno di luce e armonia, pensato per celebrare la vita piuttosto che piangere la morte.
+
+File di piante sospese ondeggiavano lentamente lungo i muri laterali, e una leggera brezza faceva vibrare i nastri traslucidi che pendevano dagli archi biodinamici sopra le teste dei presenti. Al centro, su una lastra levitante, un ologramma di Elias Voss sorrideva, proiettato in alta definizione. Accanto, il suo nome e la sua data di nascita e morte incisi su una scultura di vetro liquido che si modellava lentamente con i messaggi lasciati dai presenti.
+
+Caleb indossava un abito grigio scuro, il viso tirato. Accanto a lui, sua madre Natalie Vega, elegante ma segnata dalla fatica. Gli strinse la mano in silenzio.
+
+Daniela gli restava vicina, discreta, una presenza calda nel mare di formalità. Di fronte, in fondo alla fila opposta, c’era Liora Kye, la madre di Elias. I loro sguardi si incrociarono. Non c’erano sorrisi, ma un cenno, un riconoscimento rispettoso che sapeva di tregua temporanea.
+
+Cassandra Voss era lì, in piedi tra i rappresentanti della UrbanSec, riconoscibile solo dal tesserino digitale illuminato sul petto. Aveva uno sguardo vigile, ma rispettoso. Poco lontano, anche Lira, la ex moglie di Elias, era presente, con il piccolo Noah in braccio.
+
+Dopo un momento di silenzio, un operatore del centro attivò l'interfaccia olografica, e frammenti di memoria raccolti dai dispositivi neurali di Elias furono proiettati. Un discorso tenuto a una conferenza, una passeggiata tra i parchi pensili con Noah, una serata di risate con amici. L’ologramma parlava, rideva, e in quel momento Elias sembrava vivo più che mai.
+
+Alla fine della cerimonia, le persone iniziarono a lasciare messaggi vocali o tattili nella scultura di vetro liquido. Alcuni accarezzavano la superficie, altri pronunciavano parole di addio. Quando Caleb si avvicinò, toccò la base del monumento con due dita. «Hai lasciato un vuoto enorme, fratello. Ma anche un segnale. Lo troverò.»
+
+Dopo aver salutato alcuni colleghi di Elias della Nexora — tra cui Harun e Morten — Caleb si ritrovò da solo accanto a Cassandra, che osservava il lago in silenzio.
+
+«È stato un bel saluto,» disse lui.
+
+Cassandra annuì. «Elias era uno di quelli che non passano inosservati. Nemmeno da morto.»
+
+Caleb strinse le labbra. «Non riesco a smettere di pensare che ci sia qualcosa che non torna. Lui era... meticoloso. Attento. Non faceva passi falsi. Quel tipo di incidente... non ha senso.»
+
+Cassandra si voltò a guardarlo negli occhi. «Lo capisco. Ma ti chiedo una cosa: non andare oltre. Lascia che sia la UrbanSec a occuparsene. È il mio lavoro. Il tuo è proteggere la memoria di tuo fratello. E non metterti nei guai.»
+
+«E se fosse nei guai che trovo le risposte?»
+
+Lei fece un respiro profondo. «Allora fai in modo di non andarci da solo. E ricorda: ogni passo non autorizzato su questa strada può far male a chi ti sta intorno. Compreso te.»
+
+Caleb annuì, ma dentro di sé sapeva che non avrebbe lasciato andare. Non ancora.
+
+# Fine Capitolo 6B
 
 Caleb rientrò nel suo appartamento e chiuse la porta con un lieve tonfo. Si fermò per un istante nell'ingresso, osservando il disordine che lo circondava: piatti accumulati, vestiti lanciati su una sedia, cavi lasciati sul pavimento. Solo in quel momento si rese conto del caos.
 
