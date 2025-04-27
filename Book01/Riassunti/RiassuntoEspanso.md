@@ -852,7 +852,17 @@ Nei giorni seguenti, Milo costruì un piccolo dispositivo, un anello che Caleb a
 
 «Mi serve una base. Campioni reali. Devi raccogliere profili di chi lavora lì. Impronte, tracce vocali, magari foto o scansioni. Più materiale mi porti, più sarà convincente.»
 
-Caleb passò i giorni successivi tra pause caffè strategiche e conversazioni amichevoli, carpendo ogni piccolo dettaglio dai badge, dai tavoli condivisi, dalle voci nei corridoi. Il tutto con discrezione, mentre Aria si limitava a registrare in background, su richiesta.
+Caleb passò i giorni successivi con l’ausilio di una serie di strumenti che Milo gli aveva fornito: il VoxTrap, una penna che registrava e analizzava timbri vocali in tempo reale; il MorphScan, un paio di occhiali apparentemente normali ma capaci di catturare dati morfologici e microespressioni; il RetiPulse, un piccolo supporto da polso che simulava una vibrazione casuale ma serviva per acquisire tracciati oculari.
+
+Il bersaglio era uno solo: Dorian Hale, uno dei dirigenti tecnici di alto livello con accesso ai sistemi riservati.
+
+La prima occasione si presentò nella mensa. Caleb si avvicinò con un vassoio e si sedette al tavolo accanto a quello di Dorian, lasciando attiva la penna VoxTrap sul bordo del proprio piatto. Riuscì a registrare alcuni scambi informali tra il dirigente e altri tecnici.
+
+Il secondo colpo arrivò due giorni dopo. Durante una riunione informale nella sala briefing, Caleb riuscì a posizionare gli occhiali MorphScan in modo da catturare la struttura facciale completa di Hale, mentre quest’ultimo si rivolgeva a un gruppo spiegando l’ultima iterazione dei protocolli di sicurezza.
+
+Infine, mentre attendevano l’ascensore, Caleb finse di urtare Dorian per errore. Mentre si scusava, il RetiPulse si attivò e acquisì i parametri dell’iride con una breve scansione camuffata da vibrazione accidentale.
+
+Tornato da Milo con i dati, Caleb sentì crescere dentro di sé l’adrenalina. Il tempo stringeva. E adesso, avevano tutto ciò che serviva per ingannare il sistema.
 
 Quando tornò da Milo con tutto il necessario, il ragazzo rimase colpito.
 
