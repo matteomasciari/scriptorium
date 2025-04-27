@@ -818,9 +818,17 @@ Caleb digrignò i denti. Era un indizio. Ma ancora troppo poco.
 
 Alla fine della giornata, Caleb si diresse verso il centro di Aurion. Daniela lo stava aspettando davanti al ristorante che avevano scelto. Era una struttura elegante ma moderna, con tavoli interattivi e luci calde che si adattavano all’umore dei clienti.
 
-Daniela lo accolse con un sorriso affettuoso. «Ehi. Hai un'aria strana. Giornata intensa?»
+«Ehi.» Daniela lo accolse con un sorriso affettuoso, ma i suoi occhi cercavano qualcosa in più. «Come stai? Non ci vediamo dalla festa di laurea.»
 
-«Puoi dirlo forte.» Si sedettero. «Ti ricordi quel cubo? Il Lattice? Ho trovato qualcosa dentro. Si chiama Progetto Amrita. Sembra collegato a una stazione orbitale e... a mio fratello.»
+Caleb esitò un attimo, poi abbassò lo sguardo. «Hai ragione. Scusa se sono sparito... quella sera non riuscivo nemmeno a salutare. Avevo bisogno di staccare, di capire.»
+
+Daniela annuì con comprensione. «È normale. Hai perso tuo fratello. Nessuno si aspetta che tu stia bene.»
+
+Lui le sorrise appena, grato per la delicatezza. «Grazie. Sto cercando di rimettere insieme i pezzi.»
+
+Lei lo guardò con dolcezza. «Hai avuto una giornata intensa?»
+
+«Puoi dirlo forte.» Si sedettero. «Ho trovato quel cubo. Il Lattice. È un vecchio dispositivo interattivo, sembrava solo un soprammobile. Ma se tracci un simbolo giusto sulla sua superficie, sblocca contenuti digitali nascosti. Era un giocattolo educativo, molto usato anni fa. Elias ne aveva uno quando eravamo piccoli.» Era tra gli effetti personali di Elias. Ho trovato qualcosa dentro. Si chiama Progetto Amrita. Sembra collegato a una stazione orbitale e... a mio fratello.»
 
 Daniela si fece seria. «Cosa intendi per collegato?»
 
@@ -832,31 +840,46 @@ Caleb sollevò le sopracciglia. «Ottimo. Lo contatto domani.»
 
 Daniela sorrise, toccandogli il braccio. «Vedi? Non sei solo in questa storia.»
 
-Caleb ricambiò il sorriso, per la prima volta davvero rilassato da giorni. dopo, Caleb entrò di soppiatto nel dipartimento di archivio profondo della Nexora. Con lui c’era Lennox, un tecnico freelance, ex studente di ingegneria computazionale, ora noto per il suo talento nel "bypass etico".
+Caleb ricambiò il sorriso, per la prima volta davvero rilassato da giorni. Nei giorni successivi, Caleb contattò Milo Lennox, un ex studente di ingegneria computazionale, ora freelance specializzato in intelligenze artificiali e sicurezza digitale. Gli spiegò il problema con calma, raccontandogli del Lattice Mnemonico — un vecchio dispositivo educativo oggi dimenticato, usato per nascondere dati tramite gesti simbolici —, del nome Amrita e del blocco di sicurezza incontrato.
 
-«Se ci beccano... ci spediscono su Titano a rimettere a posto i robot delle miniere,» borbottò Lennox mentre decifrava un pannello biometrico.
+«Caleb, sei impazzito?» fu la prima reazione di Milo, il tono carico di tensione. «Parli di violare i sistemi interni della Nexora. Hanno robot armati nei corridoi e algoritmi che ti leggono il battito cardiaco prima che tu possa respirare.»
 
-«Non ci beccheranno.» Caleb passò il suo badge. Le porte si aprirono con un sibilo.
+Caleb rimase in silenzio. Milo si passò una mano tra i capelli, indeciso. Poi qualcosa nei suoi occhi cambiò.
 
-Si muovevano come ombre tra corridoi metallici, illuminati solo da guide al fosforo. Arrivarono a una sala server cilindrica, sospesa nel vuoto, con bracci robotici che scorrevano su binari a spirale.
+«Però... se riesco a farlo, se riesco a ingannare un sistema Nexora, allora non sarò solo un bravo tecnico. Sarò il migliore.» Un mezzo sorriso gli attraversò il volto. «Accetto la sfida.»
 
-Caleb inserì il Lattice in un'interfaccia universale. Lo schermo sfarfallò.
+Nei giorni seguenti, Milo costruì un piccolo dispositivo, un anello che Caleb avrebbe potuto indossare al dito, chiamato GhostLoop. Generava una firma biometrica simulata, combinata con segnali neurali sintetici, per far credere ai sistemi Nexora che chi lo indossava possedesse privilegi di accesso superiori. Ma per finalizzarlo, aveva bisogno di dati.
 
-**ACCESSO CONCESSO - Livello T3**
+«Mi serve una base. Campioni reali. Devi raccogliere profili di chi lavora lì. Impronte, tracce vocali, magari foto o scansioni. Più materiale mi porti, più sarà convincente.»
 
-Linee di codice scorsero a cascata, seguite da immagini. Schemi orbitanti. Planimetrie.
+Caleb passò i giorni successivi tra pause caffè strategiche e conversazioni amichevoli, carpendo ogni piccolo dettaglio dai badge, dai tavoli condivisi, dalle voci nei corridoi. Il tutto con discrezione, mentre Aria si limitava a registrare in background, su richiesta.
 
-**LABORATORI: STAZIONE KALYANI (orbita terrestre) | AVANTIS (orbita lunare)**
+Quando tornò da Milo con tutto il necessario, il ragazzo rimase colpito.
 
-Dati parziali. Studi su cellule neuroplastiche. Recupero della coscienza dopo stati terminali. Mappe neurologiche estese.
+«Hai rischiato grosso, fratello. Ma ora siamo pronti.»
 
-Lennox fischiò. «Cos'è questo? Sembra roba da resurrezione.»
+La sera in cui decise di usare il GhostLoop, Caleb si ritirò in un’ala meno frequentata della Nexora. Prima di attivarlo, si voltò verso un pannello lucido e sussurrò:
 
-Caleb restò in silenzio. Aveva già un sospetto. Se Elias stava lavorando a qualcosa che poteva ribaltare le regole della vita e della morte... allora sì. Qualcuno aveva un motivo per fermarlo.
+«Aria, modalità offline. Nessuna registrazione. Nessun backup.»
 
-E forse non era stato un incidente. Forse non era stato nemmeno un attentato comune.
+«Ricevuto. Passo in modalità silente.»
 
-Forse... era stato un messaggio.
+Indossò l’anello. Una pulsazione fredda gli attraversò la mano. Si avvicinò a una delle IA centrali e attivò l’interfaccia.
 
-Il progetto Amrita aveva appena cominciato a svelare i suoi segreti.
+«Accesso Progetto Amrita. Livello Epsilon.»
 
+Per un attimo, nulla. Poi l’interfaccia si sbloccò.
+
+ACCESSO CONCESSO - LIVELLO EPSILON
+
+Dati criptati si aprirono come fiori digitali. Mappe, documenti, conversazioni registrate. Tra le informazioni, Caleb lesse di laboratori in orbita terrestre e lunare, operanti sotto protocolli di riservatezza totale. Nome delle basi: Stazione Kalyani e Avantis. Obiettivo: esplorazione delle frontiere tra neuroplasticità e rianimazione cosciente.
+
+Un robot di sorveglianza passò poco lontano. Caleb si nascose dietro un supporto, trattenendo il respiro.
+
+Quando il pericolo fu passato, copiò tutto su un supporto criptato e si allontanò in silenzio.
+
+Poco dopo, in un vicolo fuori dalla Nexora, chiamò Milo.
+
+«Ce l’ho fatta.»
+
+Dall’altro capo del canale, Milo rimase in silenzio per qualche secondo. Poi: «Ti prego dimmi tutto. Ogni dettaglio. Sento che questo è l’inizio di qualcosa di enorme.»
